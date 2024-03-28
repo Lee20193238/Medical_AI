@@ -1,0 +1,674 @@
+Fri Sep 11 03:18:21 2020 Fold 0, Epoch 1, lr: 0.0000300, train loss: 0.52744, valid loss: 0.53769, acc: 75.0000, auc: 0.688546, auc_no_ext: 0.688546.
+Fri Sep 11 03:22:17 2020 Fold 0, Epoch 1, lr: 0.0000300, train loss: 0.54543, valid loss: 0.54958, acc: 75.1592, auc: 0.598517, auc_no_ext: 0.598517.
+Fri Sep 11 03:25:23 2020 Fold 0, Epoch 2, lr: 0.0003000, train loss: 0.49565, valid loss: 0.51635, acc: 73.4076, auc: 0.773414, auc_no_ext: 0.773414.
+Fri Sep 11 03:28:31 2020 Fold 0, Epoch 3, lr: 0.0002991, train loss: 0.47111, valid loss: 0.44567, acc: 79.7771, auc: 0.816697, auc_no_ext: 0.816697.
+Fri Sep 11 03:31:37 2020 Fold 0, Epoch 4, lr: 0.0002965, train loss: 0.45322, valid loss: 0.46170, acc: 77.7070, auc: 0.813396, auc_no_ext: 0.813396.
+Fri Sep 11 03:34:43 2020 Fold 0, Epoch 5, lr: 0.0002921, train loss: 0.44430, valid loss: 0.44861, acc: 78.9809, auc: 0.826692, auc_no_ext: 0.826692.
+Fri Sep 11 03:37:48 2020 Fold 0, Epoch 6, lr: 0.0002861, train loss: 0.43746, valid loss: 0.39043, acc: 83.4395, auc: 0.860672, auc_no_ext: 0.860672.
+Fri Sep 11 03:40:59 2020 Fold 0, Epoch 7, lr: 0.0002785, train loss: 0.41569, valid loss: 0.40917, acc: 81.8471, auc: 0.841998, auc_no_ext: 0.841998.
+Fri Sep 11 03:44:07 2020 Fold 0, Epoch 8, lr: 0.0002694, train loss: 0.41384, valid loss: 0.43045, acc: 80.8917, auc: 0.850065, auc_no_ext: 0.850065.
+Fri Sep 11 03:47:18 2020 Fold 0, Epoch 9, lr: 0.0002589, train loss: 0.40886, valid loss: 0.62836, acc: 69.4268, auc: 0.825538, auc_no_ext: 0.825538.
+Fri Sep 11 03:50:25 2020 Fold 0, Epoch 10, lr: 0.0002471, train loss: 0.40648, valid loss: 0.44632, acc: 80.4140, auc: 0.841400, auc_no_ext: 0.841400.
+Fri Sep 11 03:53:33 2020 Fold 0, Epoch 11, lr: 0.0002342, train loss: 0.39961, valid loss: 0.39869, acc: 84.0764, auc: 0.859789, auc_no_ext: 0.859789.
+Fri Sep 11 03:56:39 2020 Fold 0, Epoch 12, lr: 0.0002203, train loss: 0.39574, valid loss: 0.42944, acc: 80.7325, auc: 0.822862, auc_no_ext: 0.822862.
+Fri Sep 11 03:59:45 2020 Fold 0, Epoch 13, lr: 0.0002055, train loss: 0.38094, valid loss: 0.40970, acc: 83.5987, auc: 0.850663, auc_no_ext: 0.850663.
+Fri Sep 11 04:02:54 2020 Fold 0, Epoch 14, lr: 0.0001901, train loss: 0.36747, valid loss: 0.36484, acc: 85.3503, auc: 0.875326, auc_no_ext: 0.875326.
+Fri Sep 11 04:05:58 2020 Fold 0, Epoch 15, lr: 0.0001743, train loss: 0.34529, valid loss: 0.42782, acc: 82.3248, auc: 0.857046, auc_no_ext: 0.857046.
+Fri Sep 11 04:09:04 2020 Fold 0, Epoch 16, lr: 0.0001581, train loss: 0.34156, valid loss: 0.38433, acc: 84.7134, auc: 0.881370, auc_no_ext: 0.881370.
+Fri Sep 11 04:12:08 2020 Fold 0, Epoch 17, lr: 0.0001419, train loss: 0.33563, valid loss: 0.35293, acc: 86.1465, auc: 0.878015, auc_no_ext: 0.878015.
+Fri Sep 11 04:15:11 2020 Fold 0, Epoch 18, lr: 0.0001257, train loss: 0.32353, valid loss: 0.37720, acc: 85.8280, auc: 0.877227, auc_no_ext: 0.877227.
+Fri Sep 11 04:18:16 2020 Fold 0, Epoch 19, lr: 0.0001099, train loss: 0.31943, valid loss: 0.40095, acc: 85.6688, auc: 0.875244, auc_no_ext: 0.875244.
+Fri Sep 11 04:21:19 2020 Fold 0, Epoch 20, lr: 0.0000945, train loss: 0.30737, valid loss: 0.42091, acc: 83.9172, auc: 0.854642, auc_no_ext: 0.854642.
+Fri Sep 11 04:24:25 2020 Fold 0, Epoch 21, lr: 0.0000797, train loss: 0.29240, valid loss: 0.45000, acc: 84.7134, auc: 0.855661, auc_no_ext: 0.855661.
+Fri Sep 11 04:27:31 2020 Fold 0, Epoch 22, lr: 0.0000658, train loss: 0.29912, valid loss: 0.40823, acc: 86.9427, auc: 0.848110, auc_no_ext: 0.848110.
+Fri Sep 11 04:30:38 2020 Fold 0, Epoch 23, lr: 0.0000529, train loss: 0.28061, valid loss: 0.43408, acc: 87.5796, auc: 0.839431, auc_no_ext: 0.839431.
+Fri Sep 11 04:33:46 2020 Fold 0, Epoch 24, lr: 0.0000411, train loss: 0.27699, valid loss: 0.42017, acc: 86.9427, auc: 0.852863, auc_no_ext: 0.852863.
+Fri Sep 11 04:36:54 2020 Fold 0, Epoch 25, lr: 0.0000306, train loss: 0.27898, valid loss: 0.41240, acc: 85.1911, auc: 0.859504, auc_no_ext: 0.859504.
+Fri Sep 11 04:40:02 2020 Fold 0, Epoch 26, lr: 0.0000215, train loss: 0.26496, valid loss: 0.41161, acc: 86.7834, auc: 0.854194, auc_no_ext: 0.854194.
+Fri Sep 11 04:43:09 2020 Fold 0, Epoch 27, lr: 0.0000139, train loss: 0.26282, valid loss: 0.45209, acc: 86.7834, auc: 0.852551, auc_no_ext: 0.852551.
+Fri Sep 11 04:46:21 2020 Fold 0, Epoch 28, lr: 0.0000079, train loss: 0.26586, valid loss: 0.45328, acc: 87.1019, auc: 0.850350, auc_no_ext: 0.850350.
+Fri Sep 11 04:49:32 2020 Fold 0, Epoch 29, lr: 0.0000035, train loss: 0.24376, valid loss: 0.45006, acc: 86.4650, auc: 0.850812, auc_no_ext: 0.850812.
+Fri Sep 11 04:52:40 2020 Fold 0, Epoch 30, lr: 0.0000009, train loss: 0.25532, valid loss: 0.43268, acc: 87.1019, auc: 0.854235, auc_no_ext: 0.854235.
+Fri Sep 11 04:55:47 2020 Fold 1, Epoch 1, lr: 0.0000300, train loss: 0.55715, valid loss: 0.54161, acc: 75.4717, auc: 0.630996, auc_no_ext: 0.630996.
+Fri Sep 11 04:58:53 2020 Fold 1, Epoch 2, lr: 0.0003000, train loss: 0.49582, valid loss: 0.48698, acc: 77.2013, auc: 0.753619, auc_no_ext: 0.753619.
+Fri Sep 11 05:02:02 2020 Fold 1, Epoch 3, lr: 0.0002991, train loss: 0.45349, valid loss: 0.43991, acc: 80.8176, auc: 0.811365, auc_no_ext: 0.811365.
+Fri Sep 11 05:05:12 2020 Fold 1, Epoch 4, lr: 0.0002965, train loss: 0.45481, valid loss: 0.43612, acc: 81.6038, auc: 0.818830, auc_no_ext: 0.818830.
+Fri Sep 11 05:08:20 2020 Fold 1, Epoch 5, lr: 0.0002921, train loss: 0.43986, valid loss: 0.46002, acc: 82.3899, auc: 0.805556, auc_no_ext: 0.805556.
+Fri Sep 11 05:11:27 2020 Fold 1, Epoch 6, lr: 0.0002861, train loss: 0.43012, valid loss: 0.48180, acc: 81.9182, auc: 0.804567, auc_no_ext: 0.804567.
+Fri Sep 11 05:14:35 2020 Fold 1, Epoch 7, lr: 0.0002785, train loss: 0.43009, valid loss: 0.44188, acc: 82.8616, auc: 0.812460, auc_no_ext: 0.812460.
+Fri Sep 11 05:17:42 2020 Fold 1, Epoch 8, lr: 0.0002694, train loss: 0.41104, valid loss: 0.44549, acc: 83.0189, auc: 0.830275, auc_no_ext: 0.830275.
+Fri Sep 11 05:20:51 2020 Fold 1, Epoch 9, lr: 0.0002589, train loss: 0.40770, valid loss: 0.45052, acc: 80.8176, auc: 0.799239, auc_no_ext: 0.799239.
+Fri Sep 11 05:23:59 2020 Fold 1, Epoch 10, lr: 0.0002471, train loss: 0.38196, valid loss: 0.48567, acc: 80.9748, auc: 0.806290, auc_no_ext: 0.806290.
+Fri Sep 11 05:27:05 2020 Fold 1, Epoch 11, lr: 0.0002342, train loss: 0.39199, valid loss: 0.43922, acc: 82.3899, auc: 0.813488, auc_no_ext: 0.813488.
+Fri Sep 11 05:30:08 2020 Fold 1, Epoch 12, lr: 0.0002203, train loss: 0.37010, valid loss: 0.45989, acc: 82.3899, auc: 0.838822, auc_no_ext: 0.838822.
+Fri Sep 11 05:33:10 2020 Fold 1, Epoch 13, lr: 0.0002055, train loss: 0.36771, valid loss: 0.47667, acc: 82.5472, auc: 0.809989, auc_no_ext: 0.809989.
+Fri Sep 11 05:36:13 2020 Fold 1, Epoch 14, lr: 0.0001901, train loss: 0.35975, valid loss: 0.41973, acc: 83.6478, auc: 0.828205, auc_no_ext: 0.828205.
+Fri Sep 11 05:39:16 2020 Fold 1, Epoch 15, lr: 0.0001743, train loss: 0.34148, valid loss: 0.41607, acc: 83.9623, auc: 0.847569, auc_no_ext: 0.847569.
+Fri Sep 11 05:42:19 2020 Fold 1, Epoch 16, lr: 0.0001581, train loss: 0.34290, valid loss: 0.42613, acc: 85.0629, auc: 0.852804, auc_no_ext: 0.852804.
+Fri Sep 11 05:45:21 2020 Fold 1, Epoch 17, lr: 0.0001419, train loss: 0.32326, valid loss: 0.42675, acc: 86.1635, auc: 0.855622, auc_no_ext: 0.855622.
+Fri Sep 11 05:48:23 2020 Fold 1, Epoch 18, lr: 0.0001257, train loss: 0.32225, valid loss: 0.42962, acc: 85.0629, auc: 0.850881, auc_no_ext: 0.850881.
+Fri Sep 11 05:51:26 2020 Fold 1, Epoch 19, lr: 0.0001099, train loss: 0.30815, valid loss: 0.45619, acc: 84.7484, auc: 0.839009, auc_no_ext: 0.839009.
+Fri Sep 11 05:54:28 2020 Fold 1, Epoch 20, lr: 0.0000945, train loss: 0.30524, valid loss: 0.42064, acc: 85.6918, auc: 0.847369, auc_no_ext: 0.847369.
+Fri Sep 11 05:57:31 2020 Fold 1, Epoch 21, lr: 0.0000797, train loss: 0.31092, valid loss: 0.43430, acc: 85.0629, auc: 0.843162, auc_no_ext: 0.843162.
+Fri Sep 11 06:00:34 2020 Fold 1, Epoch 22, lr: 0.0000658, train loss: 0.29439, valid loss: 0.44453, acc: 84.9057, auc: 0.847182, auc_no_ext: 0.847182.
+Fri Sep 11 06:03:37 2020 Fold 1, Epoch 23, lr: 0.0000529, train loss: 0.28613, valid loss: 0.44624, acc: 85.2201, auc: 0.845166, auc_no_ext: 0.845166.
+Fri Sep 11 06:06:39 2020 Fold 1, Epoch 24, lr: 0.0000411, train loss: 0.28678, valid loss: 0.43619, acc: 85.6918, auc: 0.850334, auc_no_ext: 0.850334.
+Fri Sep 11 06:09:42 2020 Fold 1, Epoch 25, lr: 0.0000306, train loss: 0.28028, valid loss: 0.42955, acc: 85.3774, auc: 0.850414, auc_no_ext: 0.850414.
+Fri Sep 11 06:12:45 2020 Fold 1, Epoch 26, lr: 0.0000215, train loss: 0.27276, valid loss: 0.42691, acc: 85.0629, auc: 0.851215, auc_no_ext: 0.851215.
+Fri Sep 11 06:15:47 2020 Fold 1, Epoch 27, lr: 0.0000139, train loss: 0.25822, valid loss: 0.44873, acc: 85.5346, auc: 0.850868, auc_no_ext: 0.850868.
+Fri Sep 11 06:18:50 2020 Fold 1, Epoch 28, lr: 0.0000079, train loss: 0.26587, valid loss: 0.45744, acc: 85.5346, auc: 0.850694, auc_no_ext: 0.850694.
+Fri Sep 11 06:21:53 2020 Fold 1, Epoch 29, lr: 0.0000035, train loss: 0.26793, valid loss: 0.43308, acc: 85.8491, auc: 0.851242, auc_no_ext: 0.851242.
+Fri Sep 11 06:24:56 2020 Fold 1, Epoch 30, lr: 0.0000009, train loss: 0.25590, valid loss: 0.44253, acc: 85.6918, auc: 0.852350, auc_no_ext: 0.852350.
+Fri Sep 11 06:27:59 2020 Fold 2, Epoch 1, lr: 0.0000300, train loss: 0.54741, valid loss: 0.52764, acc: 76.5723, auc: 0.639012, auc_no_ext: 0.639012.
+Fri Sep 11 06:31:01 2020 Fold 2, Epoch 2, lr: 0.0003000, train loss: 0.49858, valid loss: 0.48184, acc: 80.9748, auc: 0.750111, auc_no_ext: 0.750111.
+Fri Sep 11 06:34:04 2020 Fold 2, Epoch 3, lr: 0.0002991, train loss: 0.46793, valid loss: 0.46897, acc: 78.9308, auc: 0.765341, auc_no_ext: 0.765341.
+Fri Sep 11 06:37:06 2020 Fold 2, Epoch 4, lr: 0.0002965, train loss: 0.45014, valid loss: 0.50303, acc: 77.2013, auc: 0.766490, auc_no_ext: 0.766490.
+Fri Sep 11 06:40:09 2020 Fold 2, Epoch 5, lr: 0.0002921, train loss: 0.44855, valid loss: 0.44787, acc: 81.6038, auc: 0.788976, auc_no_ext: 0.788976.
+Fri Sep 11 06:43:11 2020 Fold 2, Epoch 6, lr: 0.0002861, train loss: 0.42669, valid loss: 0.44754, acc: 82.2327, auc: 0.792244, auc_no_ext: 0.792244.
+Fri Sep 11 06:46:14 2020 Fold 2, Epoch 7, lr: 0.0002785, train loss: 0.41635, valid loss: 0.42008, acc: 81.6038, auc: 0.834390, auc_no_ext: 0.834390.
+Fri Sep 11 06:49:17 2020 Fold 2, Epoch 8, lr: 0.0002694, train loss: 0.41510, valid loss: 0.45495, acc: 79.0881, auc: 0.820614, auc_no_ext: 0.820614.
+Fri Sep 11 06:52:19 2020 Fold 2, Epoch 9, lr: 0.0002589, train loss: 0.41370, valid loss: 0.45704, acc: 78.4591, auc: 0.825418, auc_no_ext: 0.825418.
+Fri Sep 11 06:55:22 2020 Fold 2, Epoch 10, lr: 0.0002471, train loss: 0.39028, valid loss: 0.42454, acc: 83.0189, auc: 0.817360, auc_no_ext: 0.817360.
+Fri Sep 11 06:58:25 2020 Fold 2, Epoch 11, lr: 0.0002342, train loss: 0.39315, valid loss: 0.40240, acc: 83.4906, auc: 0.829378, auc_no_ext: 0.829378.
+Fri Sep 11 07:01:27 2020 Fold 2, Epoch 12, lr: 0.0002203, train loss: 0.36701, valid loss: 0.45447, acc: 82.5472, auc: 0.783881, auc_no_ext: 0.783881.
+Fri Sep 11 07:04:30 2020 Fold 2, Epoch 13, lr: 0.0002055, train loss: 0.35676, valid loss: 0.42631, acc: 82.7044, auc: 0.829143, auc_no_ext: 0.829143.
+Fri Sep 11 07:07:32 2020 Fold 2, Epoch 14, lr: 0.0001901, train loss: 0.35436, valid loss: 0.44745, acc: 83.0189, auc: 0.841673, auc_no_ext: 0.841673.
+Fri Sep 11 07:10:35 2020 Fold 2, Epoch 15, lr: 0.0001743, train loss: 0.34694, valid loss: 0.41556, acc: 83.6478, auc: 0.846450, auc_no_ext: 0.846450.
+Fri Sep 11 07:13:37 2020 Fold 2, Epoch 16, lr: 0.0001581, train loss: 0.33600, valid loss: 0.46024, acc: 83.8050, auc: 0.840870, auc_no_ext: 0.840870.
+Fri Sep 11 07:16:40 2020 Fold 2, Epoch 17, lr: 0.0001419, train loss: 0.33602, valid loss: 0.40052, acc: 84.7484, auc: 0.843016, auc_no_ext: 0.843016.
+Fri Sep 11 07:19:43 2020 Fold 2, Epoch 18, lr: 0.0001257, train loss: 0.32683, valid loss: 0.43963, acc: 83.8050, auc: 0.844692, auc_no_ext: 0.844692.
+Fri Sep 11 07:22:45 2020 Fold 2, Epoch 19, lr: 0.0001099, train loss: 0.30367, valid loss: 0.44738, acc: 83.0189, auc: 0.842850, auc_no_ext: 0.842850.
+Fri Sep 11 07:25:48 2020 Fold 2, Epoch 20, lr: 0.0000945, train loss: 0.30584, valid loss: 0.45763, acc: 84.5912, auc: 0.818924, auc_no_ext: 0.818924.
+Fri Sep 11 07:28:50 2020 Fold 2, Epoch 21, lr: 0.0000797, train loss: 0.30034, valid loss: 0.41460, acc: 84.1195, auc: 0.848042, auc_no_ext: 0.848042.
+Fri Sep 11 07:31:53 2020 Fold 2, Epoch 22, lr: 0.0000658, train loss: 0.27675, valid loss: 0.41051, acc: 82.7044, auc: 0.866914, auc_no_ext: 0.866914.
+Fri Sep 11 07:34:56 2020 Fold 2, Epoch 23, lr: 0.0000529, train loss: 0.27122, valid loss: 0.45524, acc: 83.4906, auc: 0.865156, auc_no_ext: 0.865156.
+Fri Sep 11 07:37:59 2020 Fold 2, Epoch 24, lr: 0.0000411, train loss: 0.27664, valid loss: 0.39516, acc: 83.9623, auc: 0.867454, auc_no_ext: 0.867454.
+Fri Sep 11 07:41:02 2020 Fold 2, Epoch 25, lr: 0.0000306, train loss: 0.26646, valid loss: 0.44655, acc: 83.4906, auc: 0.870791, auc_no_ext: 0.870791.
+Fri Sep 11 07:44:05 2020 Fold 2, Epoch 26, lr: 0.0000215, train loss: 0.25734, valid loss: 0.40836, acc: 84.5912, auc: 0.865516, auc_no_ext: 0.865516.
+Fri Sep 11 07:47:07 2020 Fold 2, Epoch 27, lr: 0.0000139, train loss: 0.25797, valid loss: 0.42034, acc: 84.5912, auc: 0.865446, auc_no_ext: 0.865446.
+Fri Sep 11 07:50:10 2020 Fold 2, Epoch 28, lr: 0.0000079, train loss: 0.24588, valid loss: 0.43786, acc: 83.6478, auc: 0.866568, auc_no_ext: 0.866568.
+Fri Sep 11 07:53:13 2020 Fold 2, Epoch 29, lr: 0.0000035, train loss: 0.24613, valid loss: 0.44781, acc: 82.8616, auc: 0.864269, auc_no_ext: 0.864269.
+Fri Sep 11 07:56:16 2020 Fold 2, Epoch 30, lr: 0.0000009, train loss: 0.26224, valid loss: 0.42680, acc: 84.4340, auc: 0.862525, auc_no_ext: 0.862525.
+Fri Sep 11 07:59:19 2020 Fold 3, Epoch 1, lr: 0.0000300, train loss: 0.55711, valid loss: 0.52065, acc: 76.2500, auc: 0.709569, auc_no_ext: 0.709569.
+Fri Sep 11 08:02:21 2020 Fold 3, Epoch 2, lr: 0.0003000, train loss: 0.50147, valid loss: 0.43248, acc: 79.2188, auc: 0.832776, auc_no_ext: 0.832776.
+Fri Sep 11 08:05:23 2020 Fold 3, Epoch 3, lr: 0.0002991, train loss: 0.47853, valid loss: 0.38102, acc: 85.3125, auc: 0.885906, auc_no_ext: 0.885906.
+Fri Sep 11 08:08:26 2020 Fold 3, Epoch 4, lr: 0.0002965, train loss: 0.46178, valid loss: 0.44603, acc: 77.0312, auc: 0.810950, auc_no_ext: 0.810950.
+Fri Sep 11 08:11:29 2020 Fold 3, Epoch 5, lr: 0.0002921, train loss: 0.44874, valid loss: 0.40908, acc: 80.7812, auc: 0.849318, auc_no_ext: 0.849318.
+Fri Sep 11 08:14:31 2020 Fold 3, Epoch 6, lr: 0.0002861, train loss: 0.43696, valid loss: 0.40066, acc: 81.5625, auc: 0.893065, auc_no_ext: 0.893065.
+Fri Sep 11 08:17:34 2020 Fold 3, Epoch 7, lr: 0.0002785, train loss: 0.43394, valid loss: 0.34042, acc: 85.0000, auc: 0.898336, auc_no_ext: 0.898336.
+Fri Sep 11 08:20:36 2020 Fold 3, Epoch 8, lr: 0.0002694, train loss: 0.41635, valid loss: 0.35844, acc: 85.9375, auc: 0.901666, auc_no_ext: 0.901666.
+Fri Sep 11 08:23:39 2020 Fold 3, Epoch 9, lr: 0.0002589, train loss: 0.41347, valid loss: 0.31747, acc: 86.5625, auc: 0.915984, auc_no_ext: 0.915984.
+Fri Sep 11 08:26:41 2020 Fold 3, Epoch 10, lr: 0.0002471, train loss: 0.40318, valid loss: 0.37935, acc: 83.9062, auc: 0.885435, auc_no_ext: 0.885435.
+Fri Sep 11 08:29:44 2020 Fold 3, Epoch 11, lr: 0.0002342, train loss: 0.39979, valid loss: 0.32458, acc: 85.4688, auc: 0.901141, auc_no_ext: 0.901141.
+Fri Sep 11 08:32:47 2020 Fold 3, Epoch 12, lr: 0.0002203, train loss: 0.38417, valid loss: 0.34980, acc: 84.0625, auc: 0.884639, auc_no_ext: 0.884639.
+Fri Sep 11 08:35:49 2020 Fold 3, Epoch 13, lr: 0.0002055, train loss: 0.38234, valid loss: 0.34644, acc: 85.7812, auc: 0.894090, auc_no_ext: 0.894090.
+Fri Sep 11 08:38:52 2020 Fold 3, Epoch 14, lr: 0.0001901, train loss: 0.37769, valid loss: 0.31506, acc: 86.2500, auc: 0.909459, auc_no_ext: 0.909459.
+Fri Sep 11 08:41:54 2020 Fold 3, Epoch 15, lr: 0.0001743, train loss: 0.36467, valid loss: 0.32722, acc: 85.4688, auc: 0.900493, auc_no_ext: 0.900493.
+Fri Sep 11 08:44:57 2020 Fold 3, Epoch 16, lr: 0.0001581, train loss: 0.34952, valid loss: 0.30339, acc: 87.5000, auc: 0.912411, auc_no_ext: 0.912411.
+Fri Sep 11 08:47:59 2020 Fold 3, Epoch 17, lr: 0.0001419, train loss: 0.34474, valid loss: 0.30427, acc: 87.3438, auc: 0.915229, auc_no_ext: 0.915229.
+Fri Sep 11 08:51:02 2020 Fold 3, Epoch 18, lr: 0.0001257, train loss: 0.33509, valid loss: 0.28327, acc: 87.3438, auc: 0.933294, auc_no_ext: 0.933294.
+Fri Sep 11 08:54:04 2020 Fold 3, Epoch 19, lr: 0.0001099, train loss: 0.30942, valid loss: 0.29857, acc: 87.9688, auc: 0.927443, auc_no_ext: 0.927443.
+Fri Sep 11 08:57:06 2020 Fold 3, Epoch 20, lr: 0.0000945, train loss: 0.32125, valid loss: 0.31535, acc: 87.3438, auc: 0.913840, auc_no_ext: 0.913840.
+Fri Sep 11 09:00:09 2020 Fold 3, Epoch 21, lr: 0.0000797, train loss: 0.30649, valid loss: 0.29748, acc: 87.6562, auc: 0.924302, auc_no_ext: 0.924302.
+Fri Sep 11 09:03:12 2020 Fold 3, Epoch 22, lr: 0.0000658, train loss: 0.30022, valid loss: 0.31238, acc: 88.2812, auc: 0.924625, auc_no_ext: 0.924625.
+Fri Sep 11 09:06:14 2020 Fold 3, Epoch 23, lr: 0.0000529, train loss: 0.29694, valid loss: 0.28776, acc: 88.1250, auc: 0.929883, auc_no_ext: 0.929883.
+Fri Sep 11 09:09:17 2020 Fold 3, Epoch 24, lr: 0.0000411, train loss: 0.27893, valid loss: 0.30033, acc: 87.9688, auc: 0.931191, auc_no_ext: 0.931191.
+Fri Sep 11 09:12:19 2020 Fold 3, Epoch 25, lr: 0.0000306, train loss: 0.26584, valid loss: 0.29294, acc: 87.0312, auc: 0.929654, auc_no_ext: 0.929654.
+Fri Sep 11 09:15:22 2020 Fold 3, Epoch 26, lr: 0.0000215, train loss: 0.25413, valid loss: 0.30660, acc: 87.0312, auc: 0.927996, auc_no_ext: 0.927996.
+Fri Sep 11 09:18:24 2020 Fold 3, Epoch 27, lr: 0.0000139, train loss: 0.28258, valid loss: 0.30315, acc: 87.1875, auc: 0.926243, auc_no_ext: 0.926243.
+Fri Sep 11 09:21:27 2020 Fold 3, Epoch 28, lr: 0.0000079, train loss: 0.25241, valid loss: 0.29531, acc: 87.3438, auc: 0.928063, auc_no_ext: 0.928063.
+Fri Sep 11 09:24:30 2020 Fold 3, Epoch 29, lr: 0.0000035, train loss: 0.25409, valid loss: 0.29789, acc: 86.8750, auc: 0.926877, auc_no_ext: 0.926877.
+Fri Sep 11 09:27:32 2020 Fold 3, Epoch 30, lr: 0.0000009, train loss: 0.27339, valid loss: 0.29820, acc: 87.3438, auc: 0.928225, auc_no_ext: 0.928225.
+Fri Sep 11 09:30:35 2020 Fold 4, Epoch 1, lr: 0.0000300, train loss: 0.55401, valid loss: 0.53464, acc: 76.2903, auc: 0.631485, auc_no_ext: 0.631485.
+Fri Sep 11 09:33:38 2020 Fold 4, Epoch 2, lr: 0.0003000, train loss: 0.49903, valid loss: 0.51063, acc: 75.0000, auc: 0.709517, auc_no_ext: 0.709517.
+Fri Sep 11 09:36:41 2020 Fold 4, Epoch 3, lr: 0.0002991, train loss: 0.46514, valid loss: 0.54069, acc: 74.0323, auc: 0.729859, auc_no_ext: 0.729859.
+Fri Sep 11 09:39:44 2020 Fold 4, Epoch 4, lr: 0.0002965, train loss: 0.43186, valid loss: 0.52156, acc: 74.8387, auc: 0.731376, auc_no_ext: 0.731376.
+Fri Sep 11 09:42:47 2020 Fold 4, Epoch 5, lr: 0.0002921, train loss: 0.42055, valid loss: 0.49919, acc: 72.4194, auc: 0.737460, auc_no_ext: 0.737460.
+Fri Sep 11 09:45:49 2020 Fold 4, Epoch 6, lr: 0.0002861, train loss: 0.41577, valid loss: 0.57532, acc: 75.8065, auc: 0.739722, auc_no_ext: 0.739722.
+Fri Sep 11 09:48:52 2020 Fold 4, Epoch 7, lr: 0.0002785, train loss: 0.40178, valid loss: 0.52454, acc: 72.9032, auc: 0.750444, auc_no_ext: 0.750444.
+Fri Sep 11 09:51:55 2020 Fold 4, Epoch 8, lr: 0.0002694, train loss: 0.40620, valid loss: 0.51341, acc: 73.5484, auc: 0.746235, auc_no_ext: 0.746235.
+Fri Sep 11 09:54:57 2020 Fold 4, Epoch 9, lr: 0.0002589, train loss: 0.38690, valid loss: 0.56198, acc: 77.4194, auc: 0.734196, auc_no_ext: 0.734196.
+Fri Sep 11 09:58:00 2020 Fold 4, Epoch 10, lr: 0.0002471, train loss: 0.37137, valid loss: 0.54755, acc: 78.2258, auc: 0.761581, auc_no_ext: 0.761581.
+Fri Sep 11 10:01:03 2020 Fold 4, Epoch 11, lr: 0.0002342, train loss: 0.37873, valid loss: 0.55159, acc: 79.6774, auc: 0.763614, auc_no_ext: 0.763614.
+Fri Sep 11 10:04:06 2020 Fold 4, Epoch 12, lr: 0.0002203, train loss: 0.35336, valid loss: 0.64911, acc: 79.0323, auc: 0.756227, auc_no_ext: 0.756227.
+Fri Sep 11 10:07:08 2020 Fold 4, Epoch 13, lr: 0.0002055, train loss: 0.35945, valid loss: 0.50562, acc: 76.7742, auc: 0.745491, auc_no_ext: 0.745491.
+Fri Sep 11 10:10:11 2020 Fold 4, Epoch 14, lr: 0.0001901, train loss: 0.34559, valid loss: 0.73740, acc: 78.5484, auc: 0.769812, auc_no_ext: 0.769812.
+Fri Sep 11 10:13:14 2020 Fold 4, Epoch 15, lr: 0.0001743, train loss: 0.33236, valid loss: 0.60765, acc: 76.1290, auc: 0.744761, auc_no_ext: 0.744761.
+Fri Sep 11 10:16:16 2020 Fold 4, Epoch 16, lr: 0.0001581, train loss: 0.32453, valid loss: 0.58538, acc: 80.6452, auc: 0.774078, auc_no_ext: 0.774078.
+Fri Sep 11 10:19:19 2020 Fold 4, Epoch 17, lr: 0.0001419, train loss: 0.32839, valid loss: 0.56150, acc: 78.7097, auc: 0.773234, auc_no_ext: 0.773234.
+Fri Sep 11 10:22:22 2020 Fold 4, Epoch 18, lr: 0.0001257, train loss: 0.30469, valid loss: 0.53724, acc: 77.5806, auc: 0.802737, auc_no_ext: 0.802737.
+Fri Sep 11 10:25:24 2020 Fold 4, Epoch 19, lr: 0.0001099, train loss: 0.29117, valid loss: 0.56701, acc: 79.5161, auc: 0.788737, auc_no_ext: 0.788737.
+Fri Sep 11 10:28:27 2020 Fold 4, Epoch 20, lr: 0.0000945, train loss: 0.29219, valid loss: 0.51580, acc: 80.4839, auc: 0.802122, auc_no_ext: 0.802122.
+Fri Sep 11 10:31:30 2020 Fold 4, Epoch 21, lr: 0.0000797, train loss: 0.28233, valid loss: 0.56107, acc: 78.3871, auc: 0.789395, auc_no_ext: 0.789395.
+Fri Sep 11 10:34:32 2020 Fold 4, Epoch 22, lr: 0.0000658, train loss: 0.28763, valid loss: 0.57532, acc: 79.8387, auc: 0.784729, auc_no_ext: 0.784729.
+Fri Sep 11 10:37:35 2020 Fold 4, Epoch 23, lr: 0.0000529, train loss: 0.26428, valid loss: 0.57999, acc: 80.0000, auc: 0.785473, auc_no_ext: 0.785473.
+Fri Sep 11 10:40:37 2020 Fold 4, Epoch 24, lr: 0.0000411, train loss: 0.25516, valid loss: 0.56801, acc: 81.4516, auc: 0.780677, auc_no_ext: 0.780677.
+Fri Sep 11 10:43:40 2020 Fold 4, Epoch 25, lr: 0.0000306, train loss: 0.25932, valid loss: 0.57427, acc: 79.6774, auc: 0.785129, auc_no_ext: 0.785129.
+Fri Sep 11 10:46:43 2020 Fold 4, Epoch 26, lr: 0.0000215, train loss: 0.24808, valid loss: 0.62469, acc: 80.9677, auc: 0.784557, auc_no_ext: 0.784557.
+Fri Sep 11 10:49:45 2020 Fold 4, Epoch 27, lr: 0.0000139, train loss: 0.24924, valid loss: 0.60088, acc: 80.8065, auc: 0.788751, auc_no_ext: 0.788751.
+Fri Sep 11 10:52:48 2020 Fold 4, Epoch 28, lr: 0.0000079, train loss: 0.22710, valid loss: 0.58762, acc: 80.9677, auc: 0.781880, auc_no_ext: 0.781880.
+Fri Sep 11 10:55:51 2020 Fold 4, Epoch 29, lr: 0.0000035, train loss: 0.24749, valid loss: 0.61977, acc: 80.9677, auc: 0.786962, auc_no_ext: 0.786962.
+Fri Sep 11 10:58:53 2020 Fold 4, Epoch 30, lr: 0.0000009, train loss: 0.24771, valid loss: 0.59155, acc: 80.1613, auc: 0.784528, auc_no_ext: 0.784528.
+Sun Sep 13 16:57:20 2020 Eval best:
+Accuracy : 85.44304
+AUC_all_raw : 0.88675
+AUC_all_rank : 0.89561
+
+Thu Jan 18 15:47:56 2024 Fold 0, Epoch 1, lr: 0.0000300, train loss: 0.52252, valid loss: 0.31874, Acc: 87.6354, AUC: 0.884057.
+Thu Jan 18 16:14:35 2024 Fold 0, Epoch 2, lr: 0.0003000, train loss: 0.38010, valid loss: 0.34563, Acc: 86.5975, AUC: 0.911981.
+Thu Jan 18 16:41:45 2024 Fold 0, Epoch 3, lr: 0.0002991, train loss: 0.32700, valid loss: 0.21682, Acc: 90.7491, AUC: 0.949646.
+Thu Jan 18 17:08:32 2024 Fold 0, Epoch 4, lr: 0.0002965, train loss: 0.29961, valid loss: 0.21541, Acc: 92.3285, AUC: 0.950722.
+Thu Jan 18 17:36:02 2024 Fold 0, Epoch 5, lr: 0.0002921, train loss: 0.26963, valid loss: 0.21697, Acc: 91.6065, AUC: 0.951477.
+Thu Jan 18 18:03:26 2024 Fold 0, Epoch 6, lr: 0.0002861, train loss: 0.25064, valid loss: 0.33382, Acc: 86.6426, AUC: 0.954347.
+Thu Jan 18 18:30:47 2024 Fold 0, Epoch 7, lr: 0.0002785, train loss: 0.22511, valid loss: 0.22168, Acc: 93.2310, AUC: 0.958234.
+Thu Jan 18 18:57:31 2024 Fold 0, Epoch 8, lr: 0.0002694, train loss: 0.22605, valid loss: 0.22425, Acc: 92.4188, AUC: 0.936819.
+Thu Jan 18 19:25:09 2024 Fold 0, Epoch 9, lr: 0.0002589, train loss: 0.19767, valid loss: 0.27172, Acc: 88.9440, AUC: 0.952822.
+Thu Jan 18 19:51:41 2024 Fold 0, Epoch 10, lr: 0.0002471, train loss: 0.19274, valid loss: 0.23054, Acc: 91.8773, AUC: 0.950599.
+Thu Jan 18 20:18:23 2024 Fold 0, Epoch 11, lr: 0.0002342, train loss: 0.19396, valid loss: 0.20880, Acc: 93.1408, AUC: 0.952197.
+Thu Jan 18 20:45:44 2024 Fold 0, Epoch 12, lr: 0.0002203, train loss: 0.18401, valid loss: 0.21630, Acc: 92.7347, AUC: 0.948747.
+Thu Jan 18 21:12:35 2024 Fold 0, Epoch 13, lr: 0.0002055, train loss: 0.16791, valid loss: 0.21405, Acc: 93.2310, AUC: 0.961163.
+Thu Jan 18 21:39:12 2024 Fold 0, Epoch 14, lr: 0.0001901, train loss: 0.16079, valid loss: 0.22108, Acc: 92.0578, AUC: 0.954259.
+Thu Jan 18 22:05:24 2024 Fold 0, Epoch 15, lr: 0.0001743, train loss: 0.15547, valid loss: 0.22793, Acc: 92.9603, AUC: 0.954016.
+Thu Jan 18 22:32:22 2024 Fold 0, Epoch 16, lr: 0.0001581, train loss: 0.13825, valid loss: 0.28908, Acc: 91.2004, AUC: 0.922841.
+Thu Jan 18 22:59:40 2024 Fold 0, Epoch 17, lr: 0.0001419, train loss: 0.14334, valid loss: 0.19245, Acc: 93.3664, AUC: 0.964961.
+Thu Jan 18 23:27:00 2024 Fold 0, Epoch 18, lr: 0.0001257, train loss: 0.13591, valid loss: 0.23740, Acc: 93.0505, AUC: 0.948656.
+Thu Jan 18 23:53:43 2024 Fold 0, Epoch 19, lr: 0.0001099, train loss: 0.12539, valid loss: 0.21633, Acc: 93.3664, AUC: 0.957371.
+Fri Jan 19 00:20:07 2024 Fold 0, Epoch 20, lr: 0.0000945, train loss: 0.12233, valid loss: 0.23265, Acc: 93.4116, AUC: 0.957761.
+Fri Jan 19 00:46:56 2024 Fold 0, Epoch 21, lr: 0.0000797, train loss: 0.12034, valid loss: 0.20263, Acc: 93.3664, AUC: 0.963850.
+Fri Jan 19 01:14:30 2024 Fold 0, Epoch 22, lr: 0.0000658, train loss: 0.10934, valid loss: 0.23469, Acc: 93.5469, AUC: 0.949930.
+Fri Jan 19 01:40:52 2024 Fold 0, Epoch 23, lr: 0.0000529, train loss: 0.11075, valid loss: 0.23228, Acc: 93.4116, AUC: 0.956681.
+Fri Jan 19 02:08:02 2024 Fold 0, Epoch 24, lr: 0.0000411, train loss: 0.10476, valid loss: 0.21728, Acc: 93.6372, AUC: 0.959540.
+Fri Jan 19 02:35:33 2024 Fold 0, Epoch 25, lr: 0.0000306, train loss: 0.10079, valid loss: 0.20728, Acc: 94.0884, AUC: 0.963348.
+Fri Jan 19 03:01:36 2024 Fold 0, Epoch 26, lr: 0.0000215, train loss: 0.09828, valid loss: 0.21679, Acc: 93.8628, AUC: 0.964985.
+Fri Jan 19 03:27:49 2024 Fold 0, Epoch 27, lr: 0.0000139, train loss: 0.09728, valid loss: 0.22204, Acc: 93.9079, AUC: 0.962834.
+Fri Jan 19 03:54:03 2024 Fold 0, Epoch 28, lr: 0.0000079, train loss: 0.09205, valid loss: 0.21727, Acc: 93.8628, AUC: 0.967435.
+Fri Jan 19 04:21:06 2024 Fold 0, Epoch 29, lr: 0.0000035, train loss: 0.09039, valid loss: 0.21375, Acc: 93.9982, AUC: 0.962928.
+Fri Jan 19 04:48:07 2024 Fold 0, Epoch 30, lr: 0.0000009, train loss: 0.09057, valid loss: 0.19686, Acc: 93.9982, AUC: 0.967869.
+Fri Jan 19 05:14:45 2024 Fold 1, Epoch 1, lr: 0.0000300, train loss: 0.54185, valid loss: 0.31172, Acc: 89.3494, AUC: 0.936447.
+Fri Jan 19 05:41:26 2024 Fold 1, Epoch 2, lr: 0.0003000, train loss: 0.40488, valid loss: 0.20072, Acc: 94.2068, AUC: 0.912387.
+Fri Jan 19 06:08:50 2024 Fold 1, Epoch 3, lr: 0.0002991, train loss: 0.32372, valid loss: 0.27129, Acc: 89.7059, AUC: 0.921454.
+Fri Jan 19 06:35:49 2024 Fold 1, Epoch 4, lr: 0.0002965, train loss: 0.30874, valid loss: 0.19778, Acc: 93.1373, AUC: 0.937044.
+Fri Jan 19 07:03:01 2024 Fold 1, Epoch 5, lr: 0.0002921, train loss: 0.27432, valid loss: 0.18522, Acc: 92.9590, AUC: 0.950947.
+Fri Jan 19 07:30:06 2024 Fold 1, Epoch 6, lr: 0.0002861, train loss: 0.25149, valid loss: 0.28845, Acc: 88.1016, AUC: 0.969987.
+Fri Jan 19 07:57:03 2024 Fold 1, Epoch 7, lr: 0.0002785, train loss: 0.24089, valid loss: 0.24078, Acc: 89.0820, AUC: 0.970251.
+Fri Jan 19 08:23:38 2024 Fold 1, Epoch 8, lr: 0.0002694, train loss: 0.23399, valid loss: 0.17349, Acc: 93.4492, AUC: 0.989756.
+Fri Jan 19 08:50:23 2024 Fold 1, Epoch 9, lr: 0.0002589, train loss: 0.21709, valid loss: 0.11918, Acc: 95.4100, AUC: 0.981748.
+Fri Jan 19 09:17:36 2024 Fold 1, Epoch 10, lr: 0.0002471, train loss: 0.20070, valid loss: 0.12050, Acc: 95.1426, AUC: 0.986671.
+Fri Jan 19 09:44:48 2024 Fold 1, Epoch 11, lr: 0.0002342, train loss: 0.20042, valid loss: 0.15895, Acc: 93.6720, AUC: 0.976509.
+Fri Jan 19 10:12:00 2024 Fold 1, Epoch 12, lr: 0.0002203, train loss: 0.18041, valid loss: 0.12041, Acc: 96.2567, AUC: 0.975366.
+Fri Jan 19 10:40:06 2024 Fold 1, Epoch 13, lr: 0.0002055, train loss: 0.19120, valid loss: 0.10844, Acc: 95.9002, AUC: 0.987139.
+Fri Jan 19 11:07:06 2024 Fold 1, Epoch 14, lr: 0.0001901, train loss: 0.17840, valid loss: 0.21197, Acc: 91.3102, AUC: 0.983609.
+Fri Jan 19 11:34:14 2024 Fold 1, Epoch 15, lr: 0.0001743, train loss: 0.16300, valid loss: 0.14520, Acc: 94.3405, AUC: 0.991483.
+Fri Jan 19 12:01:00 2024 Fold 1, Epoch 16, lr: 0.0001581, train loss: 0.16669, valid loss: 0.14902, Acc: 94.4296, AUC: 0.988910.
+Fri Jan 19 12:27:02 2024 Fold 1, Epoch 17, lr: 0.0001419, train loss: 0.14951, valid loss: 0.15565, Acc: 93.9394, AUC: 0.982706.
+Fri Jan 19 12:53:39 2024 Fold 1, Epoch 18, lr: 0.0001257, train loss: 0.15221, valid loss: 0.12387, Acc: 95.1426, AUC: 0.986757.
+Fri Jan 19 13:20:11 2024 Fold 1, Epoch 19, lr: 0.0001099, train loss: 0.14239, valid loss: 0.11565, Acc: 95.7665, AUC: 0.985963.
+Fri Jan 19 13:47:16 2024 Fold 1, Epoch 20, lr: 0.0000945, train loss: 0.13238, valid loss: 0.15316, Acc: 93.8057, AUC: 0.982388.
+Fri Jan 19 14:14:17 2024 Fold 1, Epoch 21, lr: 0.0000797, train loss: 0.13262, valid loss: 0.12134, Acc: 95.4545, AUC: 0.989522.
+Fri Jan 19 14:41:20 2024 Fold 1, Epoch 22, lr: 0.0000658, train loss: 0.12826, valid loss: 0.14685, Acc: 94.4296, AUC: 0.981939.
+Fri Jan 19 15:08:19 2024 Fold 1, Epoch 23, lr: 0.0000529, train loss: 0.11820, valid loss: 0.15665, Acc: 94.8307, AUC: 0.980015.
+Fri Jan 19 15:34:48 2024 Fold 1, Epoch 24, lr: 0.0000411, train loss: 0.11080, valid loss: 0.13653, Acc: 95.1872, AUC: 0.984686.
+Fri Jan 19 16:02:36 2024 Fold 1, Epoch 25, lr: 0.0000306, train loss: 0.11246, valid loss: 0.16060, Acc: 94.6524, AUC: 0.979759.
+Fri Jan 19 16:30:31 2024 Fold 1, Epoch 26, lr: 0.0000215, train loss: 0.10265, valid loss: 0.14460, Acc: 95.0980, AUC: 0.984487.
+Fri Jan 19 16:57:41 2024 Fold 1, Epoch 27, lr: 0.0000139, train loss: 0.10853, valid loss: 0.12346, Acc: 95.6774, AUC: 0.987822.
+Fri Jan 19 17:25:19 2024 Fold 1, Epoch 28, lr: 0.0000079, train loss: 0.10812, valid loss: 0.14159, Acc: 95.0089, AUC: 0.984596.
+Fri Jan 19 17:52:06 2024 Fold 1, Epoch 29, lr: 0.0000035, train loss: 0.10053, valid loss: 0.12960, Acc: 95.5437, AUC: 0.984342.
+Fri Jan 19 18:18:37 2024 Fold 1, Epoch 30, lr: 0.0000009, train loss: 0.10053, valid loss: 0.12945, Acc: 95.5882, AUC: 0.984677.
+Fri Jan 19 18:46:06 2024 Fold 2, Epoch 1, lr: 0.0000300, train loss: 0.49943, valid loss: 0.39993, Acc: 82.4977, AUC: 0.880476.
+Fri Jan 19 19:13:28 2024 Fold 2, Epoch 2, lr: 0.0003000, train loss: 0.36564, valid loss: 0.36830, Acc: 83.4549, AUC: 0.924563.
+Fri Jan 19 19:41:05 2024 Fold 2, Epoch 3, lr: 0.0002991, train loss: 0.29686, valid loss: 0.30417, Acc: 85.9161, AUC: 0.936385.
+Fri Jan 19 20:09:02 2024 Fold 2, Epoch 4, lr: 0.0002965, train loss: 0.27713, valid loss: 0.27365, Acc: 88.1495, AUC: 0.949592.
+Fri Jan 19 20:36:31 2024 Fold 2, Epoch 5, lr: 0.0002921, train loss: 0.24785, valid loss: 0.35251, Acc: 86.7821, AUC: 0.943432.
+Fri Jan 19 21:04:02 2024 Fold 2, Epoch 6, lr: 0.0002861, train loss: 0.23341, valid loss: 0.26796, Acc: 89.4713, AUC: 0.952120.
+Fri Jan 19 21:31:59 2024 Fold 2, Epoch 7, lr: 0.0002785, train loss: 0.22414, valid loss: 0.30111, Acc: 88.7420, AUC: 0.957608.
+Fri Jan 19 21:59:56 2024 Fold 2, Epoch 8, lr: 0.0002694, train loss: 0.21379, valid loss: 0.43463, Acc: 83.5460, AUC: 0.938048.
+Fri Jan 19 22:27:15 2024 Fold 2, Epoch 9, lr: 0.0002589, train loss: 0.21023, valid loss: 0.34165, Acc: 85.5971, AUC: 0.964222.
+Fri Jan 19 22:54:54 2024 Fold 2, Epoch 10, lr: 0.0002471, train loss: 0.18451, valid loss: 0.30026, Acc: 88.5141, AUC: 0.955126.
+Fri Jan 19 23:22:01 2024 Fold 2, Epoch 11, lr: 0.0002342, train loss: 0.17620, valid loss: 0.33048, Acc: 88.1039, AUC: 0.945389.
+Fri Jan 19 23:49:26 2024 Fold 2, Epoch 12, lr: 0.0002203, train loss: 0.17672, valid loss: 0.29568, Acc: 90.0182, AUC: 0.952235.
+Sat Jan 20 00:17:00 2024 Fold 2, Epoch 13, lr: 0.0002055, train loss: 0.16791, valid loss: 0.30608, Acc: 88.7876, AUC: 0.964707.
+Sat Jan 20 00:44:26 2024 Fold 2, Epoch 14, lr: 0.0001901, train loss: 0.14598, valid loss: 0.44683, Acc: 87.6481, AUC: 0.957681.
+Sat Jan 20 01:12:05 2024 Fold 2, Epoch 15, lr: 0.0001743, train loss: 0.14978, valid loss: 0.35159, Acc: 88.1039, AUC: 0.947061.
+Sat Jan 20 01:38:57 2024 Fold 2, Epoch 16, lr: 0.0001581, train loss: 0.14498, valid loss: 0.27817, Acc: 89.0611, AUC: 0.961455.
+Sat Jan 20 02:06:26 2024 Fold 2, Epoch 17, lr: 0.0001419, train loss: 0.13604, valid loss: 0.31494, Acc: 89.6992, AUC: 0.955554.
+Sat Jan 20 02:34:06 2024 Fold 2, Epoch 18, lr: 0.0001257, train loss: 0.12974, valid loss: 0.33949, Acc: 88.0128, AUC: 0.954782.
+Sat Jan 20 03:01:24 2024 Fold 2, Epoch 19, lr: 0.0001099, train loss: 0.13115, valid loss: 0.32890, Acc: 89.4257, AUC: 0.958756.
+Sat Jan 20 03:28:38 2024 Fold 2, Epoch 20, lr: 0.0000945, train loss: 0.12395, valid loss: 0.37056, Acc: 88.8332, AUC: 0.959099.
+Sat Jan 20 03:55:37 2024 Fold 2, Epoch 21, lr: 0.0000797, train loss: 0.12254, valid loss: 0.31317, Acc: 89.0155, AUC: 0.962245.
+Sat Jan 20 04:23:13 2024 Fold 2, Epoch 22, lr: 0.0000658, train loss: 0.10402, valid loss: 0.35014, Acc: 89.2434, AUC: 0.961778.
+Sat Jan 20 04:51:00 2024 Fold 2, Epoch 23, lr: 0.0000529, train loss: 0.10812, valid loss: 0.31840, Acc: 89.5624, AUC: 0.961994.
+Sat Jan 20 05:19:12 2024 Fold 2, Epoch 24, lr: 0.0000411, train loss: 0.10263, valid loss: 0.29600, Acc: 89.7903, AUC: 0.964350.
+Sat Jan 20 05:46:05 2024 Fold 2, Epoch 25, lr: 0.0000306, train loss: 0.10514, valid loss: 0.30231, Acc: 89.6992, AUC: 0.963379.
+Sat Jan 20 06:13:49 2024 Fold 2, Epoch 26, lr: 0.0000215, train loss: 0.10287, valid loss: 0.30830, Acc: 89.2890, AUC: 0.965293.
+Sat Jan 20 06:41:31 2024 Fold 2, Epoch 27, lr: 0.0000139, train loss: 0.09875, valid loss: 0.29069, Acc: 90.3373, AUC: 0.967082.
+Sat Jan 20 07:09:40 2024 Fold 2, Epoch 28, lr: 0.0000079, train loss: 0.09782, valid loss: 0.29551, Acc: 90.2917, AUC: 0.966860.
+Sat Jan 20 07:36:31 2024 Fold 2, Epoch 29, lr: 0.0000035, train loss: 0.10011, valid loss: 0.29079, Acc: 90.6563, AUC: 0.967882.
+Sat Jan 20 08:04:04 2024 Fold 2, Epoch 30, lr: 0.0000009, train loss: 0.09533, valid loss: 0.29424, Acc: 90.8842, AUC: 0.967667.
+Sat Jan 20 08:31:03 2024 Fold 3, Epoch 1, lr: 0.0000300, train loss: 0.51597, valid loss: 0.33551, Acc: 87.9696, AUC: 0.950062.
+Sat Jan 20 08:58:04 2024 Fold 3, Epoch 2, lr: 0.0003000, train loss: 0.37868, valid loss: 0.28545, Acc: 88.1038, AUC: 0.965158.
+Sat Jan 20 09:25:06 2024 Fold 3, Epoch 3, lr: 0.0002991, train loss: 0.31666, valid loss: 0.25788, Acc: 88.4615, AUC: 0.961773.
+Sat Jan 20 09:51:59 2024 Fold 3, Epoch 4, lr: 0.0002965, train loss: 0.28496, valid loss: 0.22645, Acc: 90.7424, AUC: 0.967977.
+Sat Jan 20 10:18:57 2024 Fold 3, Epoch 5, lr: 0.0002921, train loss: 0.25619, valid loss: 0.17690, Acc: 93.4705, AUC: 0.977304.
+Sat Jan 20 10:46:28 2024 Fold 3, Epoch 6, lr: 0.0002861, train loss: 0.25395, valid loss: 0.21288, Acc: 91.1449, AUC: 0.974633.
+Sat Jan 20 11:13:34 2024 Fold 3, Epoch 7, lr: 0.0002785, train loss: 0.23464, valid loss: 0.18472, Acc: 94.0072, AUC: 0.976726.
+Sat Jan 20 11:40:27 2024 Fold 3, Epoch 8, lr: 0.0002694, train loss: 0.22787, valid loss: 0.20341, Acc: 93.3363, AUC: 0.980460.
+Sat Jan 20 12:07:32 2024 Fold 3, Epoch 9, lr: 0.0002589, train loss: 0.22070, valid loss: 0.22255, Acc: 91.0555, AUC: 0.968233.
+Sat Jan 20 12:34:49 2024 Fold 3, Epoch 10, lr: 0.0002471, train loss: 0.21600, valid loss: 0.16766, Acc: 94.0519, AUC: 0.979923.
+Sat Jan 20 13:02:11 2024 Fold 3, Epoch 11, lr: 0.0002342, train loss: 0.19586, valid loss: 0.13660, Acc: 94.6333, AUC: 0.988546.
+Sat Jan 20 13:29:12 2024 Fold 3, Epoch 12, lr: 0.0002203, train loss: 0.18321, valid loss: 0.15509, Acc: 95.0805, AUC: 0.983510.
+Sat Jan 20 13:55:47 2024 Fold 3, Epoch 13, lr: 0.0002055, train loss: 0.16639, valid loss: 0.16653, Acc: 93.2021, AUC: 0.984290.
+Sat Jan 20 14:22:50 2024 Fold 3, Epoch 14, lr: 0.0001901, train loss: 0.16185, valid loss: 0.17282, Acc: 93.5152, AUC: 0.986605.
+Sat Jan 20 14:50:14 2024 Fold 3, Epoch 15, lr: 0.0001743, train loss: 0.15526, valid loss: 0.13560, Acc: 95.4383, AUC: 0.985474.
+Sat Jan 20 15:17:45 2024 Fold 3, Epoch 16, lr: 0.0001581, train loss: 0.15624, valid loss: 0.13683, Acc: 94.9016, AUC: 0.989158.
+Sat Jan 20 15:45:03 2024 Fold 3, Epoch 17, lr: 0.0001419, train loss: 0.15284, valid loss: 0.15449, Acc: 94.9016, AUC: 0.987927.
+Sat Jan 20 16:12:08 2024 Fold 3, Epoch 18, lr: 0.0001257, train loss: 0.13485, valid loss: 0.18085, Acc: 93.4258, AUC: 0.988464.
+Sat Jan 20 16:39:02 2024 Fold 3, Epoch 19, lr: 0.0001099, train loss: 0.12944, valid loss: 0.12911, Acc: 95.8855, AUC: 0.989925.
+Sat Jan 20 17:06:16 2024 Fold 3, Epoch 20, lr: 0.0000945, train loss: 0.13208, valid loss: 0.12026, Acc: 95.5277, AUC: 0.992073.
+Sat Jan 20 17:32:44 2024 Fold 3, Epoch 21, lr: 0.0000797, train loss: 0.12134, valid loss: 0.12263, Acc: 95.7513, AUC: 0.991600.
+Sat Jan 20 17:59:04 2024 Fold 3, Epoch 22, lr: 0.0000658, train loss: 0.13219, valid loss: 0.13620, Acc: 95.0358, AUC: 0.991443.
+Sat Jan 20 18:26:17 2024 Fold 3, Epoch 23, lr: 0.0000529, train loss: 0.10931, valid loss: 0.11582, Acc: 96.0644, AUC: 0.992147.
+Sat Jan 20 18:53:22 2024 Fold 3, Epoch 24, lr: 0.0000411, train loss: 0.11479, valid loss: 0.14685, Acc: 95.5725, AUC: 0.989600.
+Sat Jan 20 19:20:22 2024 Fold 3, Epoch 25, lr: 0.0000306, train loss: 0.10870, valid loss: 0.16050, Acc: 95.3041, AUC: 0.989103.
+Sat Jan 20 19:47:13 2024 Fold 3, Epoch 26, lr: 0.0000215, train loss: 0.10804, valid loss: 0.13135, Acc: 95.5725, AUC: 0.991945.
+Sat Jan 20 20:14:14 2024 Fold 3, Epoch 27, lr: 0.0000139, train loss: 0.10155, valid loss: 0.15768, Acc: 95.1699, AUC: 0.990425.
+Sat Jan 20 20:41:44 2024 Fold 3, Epoch 28, lr: 0.0000079, train loss: 0.09742, valid loss: 0.12942, Acc: 95.8408, AUC: 0.991035.
+Sat Jan 20 21:08:53 2024 Fold 3, Epoch 29, lr: 0.0000035, train loss: 0.10062, valid loss: 0.16067, Acc: 95.1699, AUC: 0.990898.
+Sat Jan 20 21:35:51 2024 Fold 3, Epoch 30, lr: 0.0000009, train loss: 0.10682, valid loss: 0.14437, Acc: 95.3041, AUC: 0.991028.
+Sat Jan 20 22:02:26 2024 Fold 4, Epoch 1, lr: 0.0000300, train loss: 0.52414, valid loss: 0.38585, Acc: 81.7195, AUC: 0.896000.
+Sat Jan 20 22:29:31 2024 Fold 4, Epoch 2, lr: 0.0003000, train loss: 0.39110, valid loss: 0.28287, Acc: 88.1448, AUC: 0.953068.
+Sat Jan 20 22:56:08 2024 Fold 4, Epoch 3, lr: 0.0002991, train loss: 0.31020, valid loss: 0.28322, Acc: 86.9683, AUC: 0.954213.
+Sat Jan 20 23:23:05 2024 Fold 4, Epoch 4, lr: 0.0002965, train loss: 0.28488, valid loss: 0.26166, Acc: 90.6787, AUC: 0.968201.
+Sat Jan 20 23:50:02 2024 Fold 4, Epoch 5, lr: 0.0002921, train loss: 0.26132, valid loss: 0.22889, Acc: 90.7240, AUC: 0.975407.
+Sun Jan 21 00:17:22 2024 Fold 4, Epoch 6, lr: 0.0002861, train loss: 0.23837, valid loss: 0.31034, Acc: 87.8281, AUC: 0.968703.
+Sun Jan 21 00:44:16 2024 Fold 4, Epoch 7, lr: 0.0002785, train loss: 0.22960, valid loss: 0.15954, Acc: 94.2534, AUC: 0.983006.
+Sun Jan 21 01:10:57 2024 Fold 4, Epoch 8, lr: 0.0002694, train loss: 0.21670, valid loss: 0.18270, Acc: 92.7602, AUC: 0.984844.
+Sun Jan 21 01:38:00 2024 Fold 4, Epoch 9, lr: 0.0002589, train loss: 0.20499, valid loss: 0.14689, Acc: 94.3439, AUC: 0.982817.
+Sun Jan 21 02:04:41 2024 Fold 4, Epoch 10, lr: 0.0002471, train loss: 0.19042, valid loss: 0.28858, Acc: 89.1855, AUC: 0.975165.
+Sun Jan 21 02:31:56 2024 Fold 4, Epoch 11, lr: 0.0002342, train loss: 0.18061, valid loss: 0.18985, Acc: 92.8054, AUC: 0.978404.
+Sun Jan 21 02:59:37 2024 Fold 4, Epoch 12, lr: 0.0002203, train loss: 0.17501, valid loss: 0.23108, Acc: 90.8597, AUC: 0.973721.
+Sun Jan 21 03:26:54 2024 Fold 4, Epoch 13, lr: 0.0002055, train loss: 0.17038, valid loss: 0.18958, Acc: 92.8054, AUC: 0.979634.
+Sun Jan 21 03:54:12 2024 Fold 4, Epoch 14, lr: 0.0001901, train loss: 0.16466, valid loss: 0.19527, Acc: 93.8462, AUC: 0.976809.
+Sun Jan 21 04:21:31 2024 Fold 4, Epoch 15, lr: 0.0001743, train loss: 0.15581, valid loss: 0.18428, Acc: 93.4389, AUC: 0.978092.
+Sun Jan 21 04:48:55 2024 Fold 4, Epoch 16, lr: 0.0001581, train loss: 0.15109, valid loss: 0.17938, Acc: 92.9864, AUC: 0.978879.
+Sun Jan 21 05:16:35 2024 Fold 4, Epoch 17, lr: 0.0001419, train loss: 0.14023, valid loss: 0.19824, Acc: 93.3032, AUC: 0.981461.
+Sun Jan 21 05:43:07 2024 Fold 4, Epoch 18, lr: 0.0001257, train loss: 0.13692, valid loss: 0.19747, Acc: 93.1674, AUC: 0.980369.
+Sun Jan 21 06:10:30 2024 Fold 4, Epoch 19, lr: 0.0001099, train loss: 0.12686, valid loss: 0.17513, Acc: 93.8462, AUC: 0.983286.
+Sun Jan 21 06:37:30 2024 Fold 4, Epoch 20, lr: 0.0000945, train loss: 0.12403, valid loss: 0.27630, Acc: 92.2624, AUC: 0.974402.
+Sun Jan 21 07:04:10 2024 Fold 4, Epoch 21, lr: 0.0000797, train loss: 0.11707, valid loss: 0.15979, Acc: 94.4796, AUC: 0.985040.
+Sun Jan 21 07:30:56 2024 Fold 4, Epoch 22, lr: 0.0000658, train loss: 0.12375, valid loss: 0.23292, Acc: 92.8959, AUC: 0.983019.
+Sun Jan 21 07:58:13 2024 Fold 4, Epoch 23, lr: 0.0000529, train loss: 0.11158, valid loss: 0.16821, Acc: 93.9367, AUC: 0.985308.
+Sun Jan 21 08:25:03 2024 Fold 4, Epoch 24, lr: 0.0000411, train loss: 0.10772, valid loss: 0.17233, Acc: 94.3891, AUC: 0.986702.
+Sun Jan 21 08:52:03 2024 Fold 4, Epoch 25, lr: 0.0000306, train loss: 0.10583, valid loss: 0.18277, Acc: 94.0724, AUC: 0.985133.
+Sun Jan 21 09:19:15 2024 Fold 4, Epoch 26, lr: 0.0000215, train loss: 0.10216, valid loss: 0.18553, Acc: 94.0724, AUC: 0.986139.
+Sun Jan 21 09:46:22 2024 Fold 4, Epoch 27, lr: 0.0000139, train loss: 0.09186, valid loss: 0.18031, Acc: 94.0271, AUC: 0.986381.
+Sun Jan 21 10:13:53 2024 Fold 4, Epoch 28, lr: 0.0000079, train loss: 0.09873, valid loss: 0.18474, Acc: 94.0724, AUC: 0.985888.
+Sun Jan 21 10:40:58 2024 Fold 4, Epoch 29, lr: 0.0000035, train loss: 0.09354, valid loss: 0.17711, Acc: 94.2986, AUC: 0.986552.
+Sun Jan 21 11:08:06 2024 Fold 4, Epoch 30, lr: 0.0000009, train loss: 0.09202, valid loss: 0.18284, Acc: 94.1629, AUC: 0.986461.
+Mon Jan 22 16:47:46 2024 Eval best:
+Tue Jan 23 16:08:57 2024 Eval best:
+Accuracy : 94.37838
+AUC_all_raw : 0.98061
+AUC_all_rank : 0.96641
+
+
+
+Thu Jan 25 12:55:38 2024 Fold 0, Epoch 1, lr: 0.0000300, train loss: 0.49558, valid loss: 0.31216, Acc: 89.0625, AUC: 0.916633.
+Thu Jan 25 13:21:35 2024 Fold 0, Epoch 2, lr: 0.0003000, train loss: 0.36605, valid loss: 0.25468, Acc: 89.1071, AUC: 0.943143.
+Thu Jan 25 13:48:04 2024 Fold 0, Epoch 3, lr: 0.0002991, train loss: 0.31640, valid loss: 0.19035, Acc: 93.3036, AUC: 0.976824.
+Thu Jan 25 14:14:01 2024 Fold 0, Epoch 4, lr: 0.0002965, train loss: 0.27125, valid loss: 0.19104, Acc: 93.3482, AUC: 0.965624.
+Thu Jan 25 14:40:43 2024 Fold 0, Epoch 5, lr: 0.0002921, train loss: 0.24531, valid loss: 0.21229, Acc: 91.0268, AUC: 0.967776.
+Thu Jan 25 15:07:13 2024 Fold 0, Epoch 6, lr: 0.0002861, train loss: 0.23585, valid loss: 0.18228, Acc: 92.9018, AUC: 0.967813.
+Thu Jan 25 15:33:55 2024 Fold 0, Epoch 7, lr: 0.0002785, train loss: 0.21931, valid loss: 0.24052, Acc: 92.2321, AUC: 0.942730.
+Thu Jan 25 16:00:02 2024 Fold 0, Epoch 8, lr: 0.0002694, train loss: 0.21023, valid loss: 0.16844, Acc: 94.7768, AUC: 0.967862.
+Thu Jan 25 16:27:03 2024 Fold 0, Epoch 9, lr: 0.0002589, train loss: 0.19307, valid loss: 0.16549, Acc: 94.4643, AUC: 0.969893.
+Thu Jan 25 16:53:11 2024 Fold 0, Epoch 10, lr: 0.0002471, train loss: 0.19168, valid loss: 0.18039, Acc: 94.6875, AUC: 0.964030.
+Thu Jan 25 17:19:25 2024 Fold 0, Epoch 11, lr: 0.0002342, train loss: 0.19099, valid loss: 0.17532, Acc: 94.0179, AUC: 0.963279.
+Thu Jan 25 17:46:07 2024 Fold 0, Epoch 12, lr: 0.0002203, train loss: 0.17844, valid loss: 0.16964, Acc: 93.7054, AUC: 0.971738.
+Thu Jan 25 18:12:33 2024 Fold 0, Epoch 13, lr: 0.0002055, train loss: 0.16271, valid loss: 0.21086, Acc: 94.0625, AUC: 0.963787.
+Thu Jan 25 18:38:38 2024 Fold 0, Epoch 14, lr: 0.0001901, train loss: 0.15584, valid loss: 0.22313, Acc: 93.8393, AUC: 0.960645.
+Thu Jan 25 19:04:09 2024 Fold 0, Epoch 15, lr: 0.0001743, train loss: 0.15480, valid loss: 0.23250, Acc: 93.9286, AUC: 0.954098.
+Thu Jan 25 19:30:29 2024 Fold 0, Epoch 16, lr: 0.0001581, train loss: 0.14394, valid loss: 0.24061, Acc: 94.1071, AUC: 0.957785.
+Thu Jan 25 19:57:01 2024 Fold 0, Epoch 17, lr: 0.0001419, train loss: 0.14285, valid loss: 0.17235, Acc: 94.8661, AUC: 0.973263.
+Thu Jan 25 20:23:53 2024 Fold 0, Epoch 18, lr: 0.0001257, train loss: 0.13307, valid loss: 0.21671, Acc: 94.3304, AUC: 0.966286.
+Thu Jan 25 20:50:31 2024 Fold 0, Epoch 19, lr: 0.0001099, train loss: 0.12775, valid loss: 0.17494, Acc: 94.9107, AUC: 0.976939.
+Thu Jan 25 21:17:32 2024 Fold 0, Epoch 20, lr: 0.0000945, train loss: 0.12321, valid loss: 0.19332, Acc: 94.1518, AUC: 0.975409.
+Thu Jan 25 21:44:39 2024 Fold 0, Epoch 21, lr: 0.0000797, train loss: 0.12137, valid loss: 0.19788, Acc: 93.3036, AUC: 0.968450.
+Thu Jan 25 22:12:36 2024 Fold 0, Epoch 22, lr: 0.0000658, train loss: 0.11207, valid loss: 0.20766, Acc: 93.4821, AUC: 0.973145.
+Thu Jan 25 22:39:05 2024 Fold 0, Epoch 23, lr: 0.0000529, train loss: 0.10526, valid loss: 0.24558, Acc: 93.7054, AUC: 0.965665.
+Thu Jan 25 23:06:29 2024 Fold 0, Epoch 24, lr: 0.0000411, train loss: 0.10425, valid loss: 0.20420, Acc: 94.1964, AUC: 0.968857.
+Thu Jan 25 23:34:23 2024 Fold 0, Epoch 25, lr: 0.0000306, train loss: 0.10208, valid loss: 0.19888, Acc: 93.8393, AUC: 0.971816.
+Fri Jan 26 00:01:33 2024 Fold 0, Epoch 26, lr: 0.0000215, train loss: 0.10008, valid loss: 0.22251, Acc: 93.3929, AUC: 0.970939.
+Fri Jan 26 00:28:45 2024 Fold 0, Epoch 27, lr: 0.0000139, train loss: 0.09546, valid loss: 0.22851, Acc: 93.3036, AUC: 0.969383.
+Fri Jan 26 00:55:57 2024 Fold 0, Epoch 28, lr: 0.0000079, train loss: 0.09632, valid loss: 0.22511, Acc: 93.2589, AUC: 0.970156.
+Fri Jan 26 01:22:50 2024 Fold 0, Epoch 29, lr: 0.0000035, train loss: 0.09746, valid loss: 0.22280, Acc: 93.2589, AUC: 0.970776.
+Fri Jan 26 01:50:39 2024 Fold 0, Epoch 30, lr: 0.0000009, train loss: 0.09074, valid loss: 0.22987, Acc: 93.7500, AUC: 0.971480.
+Fri Jan 26 02:17:44 2024 Fold 1, Epoch 1, lr: 0.0000300, train loss: 0.49051, valid loss: 0.28269, Acc: 90.7901, AUC: 0.937036.
+Fri Jan 26 02:44:55 2024 Fold 1, Epoch 2, lr: 0.0003000, train loss: 0.37056, valid loss: 0.25399, Acc: 89.3454, AUC: 0.965253.
+Fri Jan 26 03:12:39 2024 Fold 1, Epoch 3, lr: 0.0002991, train loss: 0.31237, valid loss: 0.37218, Acc: 82.5734, AUC: 0.958001.
+Fri Jan 26 03:40:00 2024 Fold 1, Epoch 4, lr: 0.0002965, train loss: 0.28936, valid loss: 0.31495, Acc: 86.1400, AUC: 0.976837.
+Fri Jan 26 04:07:24 2024 Fold 1, Epoch 5, lr: 0.0002921, train loss: 0.25978, valid loss: 0.12917, Acc: 94.8984, AUC: 0.986011.
+Fri Jan 26 04:34:48 2024 Fold 1, Epoch 6, lr: 0.0002861, train loss: 0.25024, valid loss: 0.20096, Acc: 91.8284, AUC: 0.965109.
+Fri Jan 26 05:02:14 2024 Fold 1, Epoch 7, lr: 0.0002785, train loss: 0.22854, valid loss: 0.16740, Acc: 93.0474, AUC: 0.977220.
+Fri Jan 26 05:29:05 2024 Fold 1, Epoch 8, lr: 0.0002694, train loss: 0.22284, valid loss: 0.14624, Acc: 94.0858, AUC: 0.983259.
+Fri Jan 26 05:56:22 2024 Fold 1, Epoch 9, lr: 0.0002589, train loss: 0.21197, valid loss: 0.15006, Acc: 94.3567, AUC: 0.978659.
+Fri Jan 26 06:24:02 2024 Fold 1, Epoch 10, lr: 0.0002471, train loss: 0.20478, valid loss: 0.14135, Acc: 94.0406, AUC: 0.985975.
+Fri Jan 26 06:51:24 2024 Fold 1, Epoch 11, lr: 0.0002342, train loss: 0.17952, valid loss: 0.14664, Acc: 94.4470, AUC: 0.986101.
+Fri Jan 26 07:18:42 2024 Fold 1, Epoch 12, lr: 0.0002203, train loss: 0.18298, valid loss: 0.14042, Acc: 94.5824, AUC: 0.979288.
+Fri Jan 26 07:47:01 2024 Fold 1, Epoch 13, lr: 0.0002055, train loss: 0.16866, valid loss: 0.11934, Acc: 95.9368, AUC: 0.986979.
+Fri Jan 26 08:14:24 2024 Fold 1, Epoch 14, lr: 0.0001901, train loss: 0.16248, valid loss: 0.12293, Acc: 95.6659, AUC: 0.985341.
+Fri Jan 26 08:41:41 2024 Fold 1, Epoch 15, lr: 0.0001743, train loss: 0.15702, valid loss: 0.11574, Acc: 95.8014, AUC: 0.987113.
+Fri Jan 26 09:09:07 2024 Fold 1, Epoch 16, lr: 0.0001581, train loss: 0.14660, valid loss: 0.10609, Acc: 95.9368, AUC: 0.991132.
+Fri Jan 26 09:35:01 2024 Fold 1, Epoch 17, lr: 0.0001419, train loss: 0.14821, valid loss: 0.09229, Acc: 96.5237, AUC: 0.991735.
+Fri Jan 26 10:00:59 2024 Fold 1, Epoch 18, lr: 0.0001257, train loss: 0.13701, valid loss: 0.11406, Acc: 95.3950, AUC: 0.991559.
+Fri Jan 26 10:26:49 2024 Fold 1, Epoch 19, lr: 0.0001099, train loss: 0.12728, valid loss: 0.11314, Acc: 95.8916, AUC: 0.990959.
+Fri Jan 26 10:53:01 2024 Fold 1, Epoch 20, lr: 0.0000945, train loss: 0.12826, valid loss: 0.09998, Acc: 96.5688, AUC: 0.993160.
+Fri Jan 26 11:19:00 2024 Fold 1, Epoch 21, lr: 0.0000797, train loss: 0.12344, valid loss: 0.09373, Acc: 96.2980, AUC: 0.992690.
+Fri Jan 26 11:45:16 2024 Fold 1, Epoch 22, lr: 0.0000658, train loss: 0.11597, valid loss: 0.11723, Acc: 95.4402, AUC: 0.989390.
+Fri Jan 26 12:11:30 2024 Fold 1, Epoch 23, lr: 0.0000529, train loss: 0.10723, valid loss: 0.10411, Acc: 96.2980, AUC: 0.990838.
+Fri Jan 26 12:37:17 2024 Fold 1, Epoch 24, lr: 0.0000411, train loss: 0.10487, valid loss: 0.09182, Acc: 96.4786, AUC: 0.993574.
+Fri Jan 26 13:04:22 2024 Fold 1, Epoch 25, lr: 0.0000306, train loss: 0.10195, valid loss: 0.09469, Acc: 96.8849, AUC: 0.992905.
+Fri Jan 26 13:31:27 2024 Fold 1, Epoch 26, lr: 0.0000215, train loss: 0.09907, valid loss: 0.10131, Acc: 96.4334, AUC: 0.991850.
+Fri Jan 26 13:58:03 2024 Fold 1, Epoch 27, lr: 0.0000139, train loss: 0.09287, valid loss: 0.10375, Acc: 96.3883, AUC: 0.992377.
+Fri Jan 26 14:25:07 2024 Fold 1, Epoch 28, lr: 0.0000079, train loss: 0.09913, valid loss: 0.10124, Acc: 96.2980, AUC: 0.992429.
+Fri Jan 26 14:51:30 2024 Fold 1, Epoch 29, lr: 0.0000035, train loss: 0.08960, valid loss: 0.11086, Acc: 96.1174, AUC: 0.992390.
+Fri Jan 26 15:17:20 2024 Fold 1, Epoch 30, lr: 0.0000009, train loss: 0.09946, valid loss: 0.10327, Acc: 96.3431, AUC: 0.992704.
+Fri Jan 26 15:44:05 2024 Fold 2, Epoch 1, lr: 0.0000300, train loss: 0.47857, valid loss: 0.35663, Acc: 84.9321, AUC: 0.916497.
+Fri Jan 26 16:10:53 2024 Fold 2, Epoch 2, lr: 0.0003000, train loss: 0.34637, valid loss: 0.52586, Acc: 73.3032, AUC: 0.940630.
+Fri Jan 26 16:37:57 2024 Fold 2, Epoch 3, lr: 0.0002991, train loss: 0.29035, valid loss: 0.31584, Acc: 84.8869, AUC: 0.949321.
+Fri Jan 26 17:05:23 2024 Fold 2, Epoch 4, lr: 0.0002965, train loss: 0.25008, valid loss: 0.25668, Acc: 89.3213, AUC: 0.955273.
+Fri Jan 26 17:32:27 2024 Fold 2, Epoch 5, lr: 0.0002921, train loss: 0.23860, valid loss: 0.33316, Acc: 87.7376, AUC: 0.939398.
+Fri Jan 26 17:59:32 2024 Fold 2, Epoch 6, lr: 0.0002861, train loss: 0.23075, valid loss: 0.25785, Acc: 90.3620, AUC: 0.954011.
+Fri Jan 26 18:27:45 2024 Fold 2, Epoch 7, lr: 0.0002785, train loss: 0.20280, valid loss: 0.26606, Acc: 89.1403, AUC: 0.958124.
+Fri Jan 26 18:55:52 2024 Fold 2, Epoch 8, lr: 0.0002694, train loss: 0.21235, valid loss: 0.25838, Acc: 91.8100, AUC: 0.952414.
+Fri Jan 26 19:23:30 2024 Fold 2, Epoch 9, lr: 0.0002589, train loss: 0.19237, valid loss: 0.27130, Acc: 88.7330, AUC: 0.964041.
+Fri Jan 26 19:51:17 2024 Fold 2, Epoch 10, lr: 0.0002471, train loss: 0.17989, valid loss: 0.22751, Acc: 91.6742, AUC: 0.965511.
+Fri Jan 26 20:18:22 2024 Fold 2, Epoch 11, lr: 0.0002342, train loss: 0.17054, valid loss: 0.21152, Acc: 92.1719, AUC: 0.969509.
+Fri Jan 26 20:45:51 2024 Fold 2, Epoch 12, lr: 0.0002203, train loss: 0.16119, valid loss: 0.29842, Acc: 91.2670, AUC: 0.958784.
+Fri Jan 26 21:13:25 2024 Fold 2, Epoch 13, lr: 0.0002055, train loss: 0.16179, valid loss: 0.20615, Acc: 91.0860, AUC: 0.980298.
+Fri Jan 26 21:40:56 2024 Fold 2, Epoch 14, lr: 0.0001901, train loss: 0.15575, valid loss: 0.23183, Acc: 91.7647, AUC: 0.974814.
+Fri Jan 26 22:08:35 2024 Fold 2, Epoch 15, lr: 0.0001743, train loss: 0.14457, valid loss: 0.23543, Acc: 91.2670, AUC: 0.969930.
+Fri Jan 26 22:35:36 2024 Fold 2, Epoch 16, lr: 0.0001581, train loss: 0.13948, valid loss: 0.22139, Acc: 91.5385, AUC: 0.970191.
+Fri Jan 26 23:03:07 2024 Fold 2, Epoch 17, lr: 0.0001419, train loss: 0.12653, valid loss: 0.21490, Acc: 93.2127, AUC: 0.970523.
+Fri Jan 26 23:30:49 2024 Fold 2, Epoch 18, lr: 0.0001257, train loss: 0.12194, valid loss: 0.21260, Acc: 92.4887, AUC: 0.973653.
+Fri Jan 26 23:58:00 2024 Fold 2, Epoch 19, lr: 0.0001099, train loss: 0.12032, valid loss: 0.19366, Acc: 92.8507, AUC: 0.976851.
+Sat Jan 27 00:25:21 2024 Fold 2, Epoch 20, lr: 0.0000945, train loss: 0.10854, valid loss: 0.21890, Acc: 91.3122, AUC: 0.976998.
+Sat Jan 27 00:52:37 2024 Fold 2, Epoch 21, lr: 0.0000797, train loss: 0.11646, valid loss: 0.22786, Acc: 91.0407, AUC: 0.977581.
+Sat Jan 27 01:20:24 2024 Fold 2, Epoch 22, lr: 0.0000658, train loss: 0.10340, valid loss: 0.19561, Acc: 93.2579, AUC: 0.979479.
+Sat Jan 27 01:48:15 2024 Fold 2, Epoch 23, lr: 0.0000529, train loss: 0.10268, valid loss: 0.17845, Acc: 93.8009, AUC: 0.980435.
+Sat Jan 27 02:16:40 2024 Fold 2, Epoch 24, lr: 0.0000411, train loss: 0.09230, valid loss: 0.19788, Acc: 93.2127, AUC: 0.980486.
+Sat Jan 27 02:43:42 2024 Fold 2, Epoch 25, lr: 0.0000306, train loss: 0.09994, valid loss: 0.18303, Acc: 93.6652, AUC: 0.980102.
+Sat Jan 27 03:11:40 2024 Fold 2, Epoch 26, lr: 0.0000215, train loss: 0.09356, valid loss: 0.18829, Acc: 93.3484, AUC: 0.980752.
+Sat Jan 27 03:39:25 2024 Fold 2, Epoch 27, lr: 0.0000139, train loss: 0.09038, valid loss: 0.18803, Acc: 93.8009, AUC: 0.982225.
+Sat Jan 27 04:07:50 2024 Fold 2, Epoch 28, lr: 0.0000079, train loss: 0.08543, valid loss: 0.18004, Acc: 93.7557, AUC: 0.982436.
+Sat Jan 27 04:34:52 2024 Fold 2, Epoch 29, lr: 0.0000035, train loss: 0.09170, valid loss: 0.18748, Acc: 93.7557, AUC: 0.981779.
+Sat Jan 27 05:02:38 2024 Fold 2, Epoch 30, lr: 0.0000009, train loss: 0.08990, valid loss: 0.17938, Acc: 93.8009, AUC: 0.982146.
+Sat Jan 27 05:29:52 2024 Fold 3, Epoch 1, lr: 0.0000300, train loss: 0.46813, valid loss: 0.40848, Acc: 81.6050, AUC: 0.882856.
+Sat Jan 27 05:57:00 2024 Fold 3, Epoch 2, lr: 0.0003000, train loss: 0.34767, valid loss: 0.60427, Acc: 76.9161, AUC: 0.821369.
+Sat Jan 27 06:24:13 2024 Fold 3, Epoch 3, lr: 0.0002991, train loss: 0.29251, valid loss: 0.33655, Acc: 87.0153, AUC: 0.928821.
+Sat Jan 27 06:51:26 2024 Fold 3, Epoch 4, lr: 0.0002965, train loss: 0.27974, valid loss: 0.34182, Acc: 85.9784, AUC: 0.930682.
+Sat Jan 27 07:18:55 2024 Fold 3, Epoch 5, lr: 0.0002921, train loss: 0.24364, valid loss: 0.21282, Acc: 92.0198, AUC: 0.967783.
+Sat Jan 27 07:46:38 2024 Fold 3, Epoch 6, lr: 0.0002861, train loss: 0.23061, valid loss: 0.27140, Acc: 86.5645, AUC: 0.958980.
+Sat Jan 27 08:13:56 2024 Fold 3, Epoch 7, lr: 0.0002785, train loss: 0.21736, valid loss: 0.22112, Acc: 91.6141, AUC: 0.965805.
+Sat Jan 27 08:41:16 2024 Fold 3, Epoch 8, lr: 0.0002694, train loss: 0.21427, valid loss: 0.22757, Acc: 89.9008, AUC: 0.969721.
+Sat Jan 27 09:08:29 2024 Fold 3, Epoch 9, lr: 0.0002589, train loss: 0.19595, valid loss: 0.17707, Acc: 92.4707, AUC: 0.982108.
+Sat Jan 27 09:35:59 2024 Fold 3, Epoch 10, lr: 0.0002471, train loss: 0.18882, valid loss: 0.23526, Acc: 90.8927, AUC: 0.967620.
+Sat Jan 27 10:03:22 2024 Fold 3, Epoch 11, lr: 0.0002342, train loss: 0.18024, valid loss: 0.21990, Acc: 91.7493, AUC: 0.969459.
+Sat Jan 27 10:30:46 2024 Fold 3, Epoch 12, lr: 0.0002203, train loss: 0.16039, valid loss: 0.20764, Acc: 91.4788, AUC: 0.973527.
+Sat Jan 27 10:57:44 2024 Fold 3, Epoch 13, lr: 0.0002055, train loss: 0.16901, valid loss: 0.22896, Acc: 90.7574, AUC: 0.969263.
+Sat Jan 27 11:25:10 2024 Fold 3, Epoch 14, lr: 0.0001901, train loss: 0.17623, valid loss: 0.28516, Acc: 87.6014, AUC: 0.979551.
+Sat Jan 27 11:52:56 2024 Fold 3, Epoch 15, lr: 0.0001743, train loss: 0.15104, valid loss: 0.22690, Acc: 92.8314, AUC: 0.965130.
+Sat Jan 27 12:20:47 2024 Fold 3, Epoch 16, lr: 0.0001581, train loss: 0.13871, valid loss: 0.24535, Acc: 92.4256, AUC: 0.968519.
+Sat Jan 27 12:48:28 2024 Fold 3, Epoch 17, lr: 0.0001419, train loss: 0.12883, valid loss: 0.22717, Acc: 91.7042, AUC: 0.974198.
+Sat Jan 27 13:15:57 2024 Fold 3, Epoch 18, lr: 0.0001257, train loss: 0.13091, valid loss: 0.14754, Acc: 93.4626, AUC: 0.988328.
+Sat Jan 27 13:43:20 2024 Fold 3, Epoch 19, lr: 0.0001099, train loss: 0.11604, valid loss: 0.17778, Acc: 93.4626, AUC: 0.981012.
+Sat Jan 27 14:10:57 2024 Fold 3, Epoch 20, lr: 0.0000945, train loss: 0.12015, valid loss: 0.14875, Acc: 94.3192, AUC: 0.985761.
+Sat Jan 27 14:37:49 2024 Fold 3, Epoch 21, lr: 0.0000797, train loss: 0.11294, valid loss: 0.17091, Acc: 93.0568, AUC: 0.982919.
+Sat Jan 27 15:04:43 2024 Fold 3, Epoch 22, lr: 0.0000658, train loss: 0.11342, valid loss: 0.17950, Acc: 93.0117, AUC: 0.982630.
+Sat Jan 27 15:32:25 2024 Fold 3, Epoch 23, lr: 0.0000529, train loss: 0.10152, valid loss: 0.17682, Acc: 93.4175, AUC: 0.981699.
+Sat Jan 27 15:59:51 2024 Fold 3, Epoch 24, lr: 0.0000411, train loss: 0.09918, valid loss: 0.17265, Acc: 93.1921, AUC: 0.985061.
+Sat Jan 27 16:27:13 2024 Fold 3, Epoch 25, lr: 0.0000306, train loss: 0.09804, valid loss: 0.15423, Acc: 94.4094, AUC: 0.986093.
+Sat Jan 27 16:54:33 2024 Fold 3, Epoch 26, lr: 0.0000215, train loss: 0.10328, valid loss: 0.16324, Acc: 93.6880, AUC: 0.985004.
+Sat Jan 27 17:21:59 2024 Fold 3, Epoch 27, lr: 0.0000139, train loss: 0.08973, valid loss: 0.15907, Acc: 94.0036, AUC: 0.985362.
+Sat Jan 27 17:49:47 2024 Fold 3, Epoch 28, lr: 0.0000079, train loss: 0.08828, valid loss: 0.15121, Acc: 94.2290, AUC: 0.986646.
+Sat Jan 27 18:17:32 2024 Fold 3, Epoch 29, lr: 0.0000035, train loss: 0.08212, valid loss: 0.15760, Acc: 94.0487, AUC: 0.985069.
+Sat Jan 27 18:44:55 2024 Fold 3, Epoch 30, lr: 0.0000009, train loss: 0.09354, valid loss: 0.16686, Acc: 93.8683, AUC: 0.986750.
+Sat Jan 27 19:12:01 2024 Fold 4, Epoch 1, lr: 0.0000300, train loss: 0.49068, valid loss: 0.36846, Acc: 83.3032, AUC: 0.896276.
+Sat Jan 27 19:39:30 2024 Fold 4, Epoch 2, lr: 0.0003000, train loss: 0.38045, valid loss: 0.26491, Acc: 87.6805, AUC: 0.940878.
+Sat Jan 27 20:06:51 2024 Fold 4, Epoch 3, lr: 0.0002991, train loss: 0.29839, valid loss: 0.31596, Acc: 86.5975, AUC: 0.932030.
+Sat Jan 27 20:34:23 2024 Fold 4, Epoch 4, lr: 0.0002965, train loss: 0.27568, valid loss: 0.26884, Acc: 88.5379, AUC: 0.949699.
+Sat Jan 27 21:01:47 2024 Fold 4, Epoch 5, lr: 0.0002921, train loss: 0.25690, valid loss: 0.26608, Acc: 89.0794, AUC: 0.935302.
+Sat Jan 27 21:29:35 2024 Fold 4, Epoch 6, lr: 0.0002861, train loss: 0.24391, valid loss: 0.18627, Acc: 91.7870, AUC: 0.968690.
+Sat Jan 27 21:56:53 2024 Fold 4, Epoch 7, lr: 0.0002785, train loss: 0.21650, valid loss: 0.36024, Acc: 86.2816, AUC: 0.928692.
+Sat Jan 27 22:23:56 2024 Fold 4, Epoch 8, lr: 0.0002694, train loss: 0.21429, valid loss: 0.22673, Acc: 91.1101, AUC: 0.955813.
+Sat Jan 27 22:51:24 2024 Fold 4, Epoch 9, lr: 0.0002589, train loss: 0.20367, valid loss: 0.24224, Acc: 91.1101, AUC: 0.960811.
+Sat Jan 27 23:18:23 2024 Fold 4, Epoch 10, lr: 0.0002471, train loss: 0.19694, valid loss: 0.24761, Acc: 92.4188, AUC: 0.950589.
+Sat Jan 27 23:45:54 2024 Fold 4, Epoch 11, lr: 0.0002342, train loss: 0.18948, valid loss: 0.19210, Acc: 92.3736, AUC: 0.969235.
+Sun Jan 28 00:13:56 2024 Fold 4, Epoch 12, lr: 0.0002203, train loss: 0.18259, valid loss: 0.19891, Acc: 91.5162, AUC: 0.973145.
+Sun Jan 28 00:41:38 2024 Fold 4, Epoch 13, lr: 0.0002055, train loss: 0.16680, valid loss: 0.16134, Acc: 93.5469, AUC: 0.978571.
+Sun Jan 28 01:09:09 2024 Fold 4, Epoch 14, lr: 0.0001901, train loss: 0.16292, valid loss: 0.26288, Acc: 89.9368, AUC: 0.971240.
+Sun Jan 28 01:36:50 2024 Fold 4, Epoch 15, lr: 0.0001743, train loss: 0.16029, valid loss: 0.20785, Acc: 92.8700, AUC: 0.972838.
+Sun Jan 28 02:04:32 2024 Fold 4, Epoch 16, lr: 0.0001581, train loss: 0.14463, valid loss: 0.25940, Acc: 91.9224, AUC: 0.979212.
+Sun Jan 28 02:32:31 2024 Fold 4, Epoch 17, lr: 0.0001419, train loss: 0.13385, valid loss: 0.21598, Acc: 92.7347, AUC: 0.966271.
+Sun Jan 28 02:59:24 2024 Fold 4, Epoch 18, lr: 0.0001257, train loss: 0.12969, valid loss: 0.19055, Acc: 93.1408, AUC: 0.978530.
+Sun Jan 28 03:27:12 2024 Fold 4, Epoch 19, lr: 0.0001099, train loss: 0.12769, valid loss: 0.18132, Acc: 93.5469, AUC: 0.981195.
+Sun Jan 28 03:54:32 2024 Fold 4, Epoch 20, lr: 0.0000945, train loss: 0.11179, valid loss: 0.20413, Acc: 93.1859, AUC: 0.974517.
+Sun Jan 28 04:21:35 2024 Fold 4, Epoch 21, lr: 0.0000797, train loss: 0.11670, valid loss: 0.16775, Acc: 93.9531, AUC: 0.985619.
+Sun Jan 28 04:48:42 2024 Fold 4, Epoch 22, lr: 0.0000658, train loss: 0.11555, valid loss: 0.15483, Acc: 94.0884, AUC: 0.984610.
+Sun Jan 28 05:16:16 2024 Fold 4, Epoch 23, lr: 0.0000529, train loss: 0.11030, valid loss: 0.21952, Acc: 91.3357, AUC: 0.973252.
+Sun Jan 28 05:43:25 2024 Fold 4, Epoch 24, lr: 0.0000411, train loss: 0.10707, valid loss: 0.17245, Acc: 93.9079, AUC: 0.981215.
+Sun Jan 28 06:10:49 2024 Fold 4, Epoch 25, lr: 0.0000306, train loss: 0.09594, valid loss: 0.16874, Acc: 94.0433, AUC: 0.986148.
+Sun Jan 28 06:38:20 2024 Fold 4, Epoch 26, lr: 0.0000215, train loss: 0.09612, valid loss: 0.16304, Acc: 93.9531, AUC: 0.984753.
+Sun Jan 28 07:05:49 2024 Fold 4, Epoch 27, lr: 0.0000139, train loss: 0.08849, valid loss: 0.15246, Acc: 94.1787, AUC: 0.986637.
+Sun Jan 28 07:33:33 2024 Fold 4, Epoch 28, lr: 0.0000079, train loss: 0.09027, valid loss: 0.14976, Acc: 94.2238, AUC: 0.986363.
+Sun Jan 28 08:00:53 2024 Fold 4, Epoch 29, lr: 0.0000035, train loss: 0.08805, valid loss: 0.15549, Acc: 94.1336, AUC: 0.985317.
+Sun Jan 28 08:28:12 2024 Fold 4, Epoch 30, lr: 0.0000009, train loss: 0.09938, valid loss: 0.17171, Acc: 93.2310, AUC: 0.982941.
+Mon Jan 29 13:55:50 2024 Eval best:
+Accuracy : 95.26984
+AUC_all_raw : 0.98837
+AUC_all_rank : 0.98173
+
+Mon Jan 29 17:12:54 2024 Eval best:
+Accuracy : 97.86667
+AUC_all_raw : 0.99587
+AUC_all_rank : 0.98174
+
+Tue Jan 30 15:43:51 2024 Eval best: (n_test = 3)
+Accuracy : 97.60000
+AUC_all_raw : 0.99626
+AUC_all_rank : 0.98067
+
+Tue Jan 30 15:47:32 2024 Eval best: (n_test = 1)
+Accuracy : 97.60000
+AUC_all_raw : 0.99640
+AUC_all_rank : 0.97749
+
+Tue Jan 30 15:52:15 2024 Eval best: (n_test = 5)
+Accuracy : 97.60000
+AUC_all_raw : 0.99644
+AUC_all_rank : 0.98158
+
+Tue Jan 30 15:58:00 2024 Eval best: (n_test = 8)
+Accuracy : 97.86667
+AUC_all_raw : 0.99587
+AUC_all_rank : 0.98172
+
+
+Wed Jan 31 15:06:35 2024 Eval best: (result grouping X)
+Accuracy : 94.55807
+AUC_all_raw : 0.98446
+AUC_all_rank : 0.97748
+
+Mon Feb  5 00:38:36 2024 Fold 0, Epoch 1, lr: 0.0000300, train loss: 0.56439, valid loss: 0.44956, Acc: 82.0057, AUC: 0.863868.
+Mon Feb  5 00:55:26 2024 Fold 0, Epoch 2, lr: 0.0003000, train loss: 0.39243, valid loss: 0.35360, Acc: 84.8224, AUC: 0.901876.
+Mon Feb  5 01:12:14 2024 Fold 1, Epoch 1, lr: 0.0000300, train loss: 0.58229, valid loss: 0.43407, Acc: 82.3018, AUC: 0.863875.
+Mon Feb  5 01:29:41 2024 Fold 1, Epoch 2, lr: 0.0003000, train loss: 0.41539, valid loss: 0.29562, Acc: 88.4546, AUC: 0.948227.
+Mon Feb  5 01:57:35 2024 Fold 0, Epoch 1, lr: 0.0000300, train loss: 0.52672, valid loss: 0.29048, Acc: 89.6875, AUC: 0.931914.
+Mon Feb  5 02:23:10 2024 Fold 0, Epoch 2, lr: 0.0003000, train loss: 0.39439, valid loss: 0.25435, Acc: 90.8929, AUC: 0.931319.
+Mon Feb  5 02:49:18 2024 Fold 0, Epoch 3, lr: 0.0002991, train loss: 0.32420, valid loss: 0.18880, Acc: 92.7679, AUC: 0.963280.
+Mon Feb  5 03:14:56 2024 Fold 0, Epoch 4, lr: 0.0002965, train loss: 0.28868, valid loss: 0.19884, Acc: 93.7054, AUC: 0.955909.
+Mon Feb  5 03:41:18 2024 Fold 0, Epoch 5, lr: 0.0002921, train loss: 0.25090, valid loss: 0.19772, Acc: 92.7679, AUC: 0.961368.
+Mon Feb  5 04:07:23 2024 Fold 0, Epoch 6, lr: 0.0002861, train loss: 0.24310, valid loss: 0.17482, Acc: 93.6607, AUC: 0.966551.
+Mon Feb  5 04:33:38 2024 Fold 0, Epoch 7, lr: 0.0002785, train loss: 0.23156, valid loss: 0.19768, Acc: 92.6786, AUC: 0.972924.
+Mon Feb  5 04:59:11 2024 Fold 0, Epoch 8, lr: 0.0002694, train loss: 0.21958, valid loss: 0.17768, Acc: 94.0179, AUC: 0.963491.
+Mon Feb  5 05:25:49 2024 Fold 0, Epoch 9, lr: 0.0002589, train loss: 0.20084, valid loss: 0.19348, Acc: 92.9464, AUC: 0.974208.
+Mon Feb  5 05:51:33 2024 Fold 0, Epoch 10, lr: 0.0002471, train loss: 0.20151, valid loss: 0.18295, Acc: 93.3482, AUC: 0.965944.
+Mon Feb  5 06:17:24 2024 Fold 0, Epoch 11, lr: 0.0002342, train loss: 0.19239, valid loss: 0.19647, Acc: 91.8750, AUC: 0.968529.
+Mon Feb  5 06:43:46 2024 Fold 0, Epoch 12, lr: 0.0002203, train loss: 0.17981, valid loss: 0.22658, Acc: 93.3036, AUC: 0.957408.
+Mon Feb  5 07:09:49 2024 Fold 0, Epoch 13, lr: 0.0002055, train loss: 0.17119, valid loss: 0.15630, Acc: 94.2857, AUC: 0.977995.
+Mon Feb  5 07:35:43 2024 Fold 0, Epoch 14, lr: 0.0001901, train loss: 0.16326, valid loss: 0.16945, Acc: 93.1696, AUC: 0.971999.
+Mon Feb  5 08:01:07 2024 Fold 0, Epoch 15, lr: 0.0001743, train loss: 0.16806, valid loss: 0.20795, Acc: 92.6786, AUC: 0.971110.
+Mon Feb  5 08:27:20 2024 Fold 0, Epoch 16, lr: 0.0001581, train loss: 0.15168, valid loss: 0.19744, Acc: 92.9018, AUC: 0.970148.
+Mon Feb  5 08:53:40 2024 Fold 0, Epoch 17, lr: 0.0001419, train loss: 0.14209, valid loss: 0.20534, Acc: 92.2768, AUC: 0.962912.
+Mon Feb  5 09:20:15 2024 Fold 0, Epoch 18, lr: 0.0001257, train loss: 0.13531, valid loss: 0.22040, Acc: 93.3036, AUC: 0.961853.
+Mon Feb  5 09:46:07 2024 Fold 0, Epoch 19, lr: 0.0001099, train loss: 0.13331, valid loss: 0.20391, Acc: 93.5268, AUC: 0.967970.
+Mon Feb  5 10:11:57 2024 Fold 0, Epoch 20, lr: 0.0000945, train loss: 0.13346, valid loss: 0.19446, Acc: 93.5268, AUC: 0.970217.
+Mon Feb  5 10:37:56 2024 Fold 0, Epoch 21, lr: 0.0000797, train loss: 0.12182, valid loss: 0.19985, Acc: 93.4821, AUC: 0.973696.
+Mon Feb  5 11:04:50 2024 Fold 0, Epoch 22, lr: 0.0000658, train loss: 0.11237, valid loss: 0.20305, Acc: 94.2411, AUC: 0.972411.
+Mon Feb  5 11:30:12 2024 Fold 0, Epoch 23, lr: 0.0000529, train loss: 0.11736, valid loss: 0.19558, Acc: 94.2411, AUC: 0.976725.
+Mon Feb  5 11:56:30 2024 Fold 0, Epoch 24, lr: 0.0000411, train loss: 0.11133, valid loss: 0.19799, Acc: 94.1964, AUC: 0.975500.
+Mon Feb  5 12:23:13 2024 Fold 0, Epoch 25, lr: 0.0000306, train loss: 0.10693, valid loss: 0.17436, Acc: 94.2857, AUC: 0.979895.
+Mon Feb  5 12:49:12 2024 Fold 0, Epoch 26, lr: 0.0000215, train loss: 0.10219, valid loss: 0.22872, Acc: 93.7500, AUC: 0.970427.
+Mon Feb  5 13:15:19 2024 Fold 0, Epoch 27, lr: 0.0000139, train loss: 0.09647, valid loss: 0.19525, Acc: 94.3304, AUC: 0.976230.
+Mon Feb  5 13:41:33 2024 Fold 0, Epoch 28, lr: 0.0000079, train loss: 0.10490, valid loss: 0.19939, Acc: 94.3750, AUC: 0.976235.
+Mon Feb  5 14:07:34 2024 Fold 0, Epoch 29, lr: 0.0000035, train loss: 0.09948, valid loss: 0.20169, Acc: 93.9732, AUC: 0.974597.
+Mon Feb  5 14:34:26 2024 Fold 0, Epoch 30, lr: 0.0000009, train loss: 0.10083, valid loss: 0.19178, Acc: 94.2857, AUC: 0.977196.
+Mon Feb  5 15:00:30 2024 Fold 1, Epoch 1, lr: 0.0000300, train loss: 0.52514, valid loss: 0.31262, Acc: 88.1716, AUC: 0.933406.
+Mon Feb  5 15:26:32 2024 Fold 1, Epoch 2, lr: 0.0003000, train loss: 0.39042, valid loss: 0.22068, Acc: 91.0609, AUC: 0.954530.
+Mon Feb  5 15:53:02 2024 Fold 1, Epoch 3, lr: 0.0002991, train loss: 0.33073, valid loss: 0.18747, Acc: 95.4402, AUC: 0.970423.
+Mon Feb  5 16:19:14 2024 Fold 1, Epoch 4, lr: 0.0002965, train loss: 0.29099, valid loss: 0.14587, Acc: 94.1761, AUC: 0.978865.
+Mon Feb  5 16:45:29 2024 Fold 1, Epoch 5, lr: 0.0002921, train loss: 0.27270, valid loss: 0.17073, Acc: 94.4921, AUC: 0.973033.
+Mon Feb  5 17:11:46 2024 Fold 1, Epoch 6, lr: 0.0002861, train loss: 0.25323, valid loss: 0.20569, Acc: 91.9639, AUC: 0.969338.
+Mon Feb  5 17:38:08 2024 Fold 1, Epoch 7, lr: 0.0002785, train loss: 0.24875, valid loss: 0.14229, Acc: 94.7178, AUC: 0.981665.
+Mon Feb  5 18:03:54 2024 Fold 1, Epoch 8, lr: 0.0002694, train loss: 0.22489, valid loss: 0.13416, Acc: 95.9819, AUC: 0.983388.
+Mon Feb  5 18:30:06 2024 Fold 1, Epoch 9, lr: 0.0002589, train loss: 0.22316, valid loss: 0.11866, Acc: 95.8014, AUC: 0.991437.
+Mon Feb  5 18:56:43 2024 Fold 1, Epoch 10, lr: 0.0002471, train loss: 0.20821, valid loss: 0.14637, Acc: 94.5372, AUC: 0.980559.
+Mon Feb  5 19:23:05 2024 Fold 1, Epoch 11, lr: 0.0002342, train loss: 0.20026, valid loss: 0.15780, Acc: 93.2731, AUC: 0.981496.
+Mon Feb  5 19:49:28 2024 Fold 1, Epoch 12, lr: 0.0002203, train loss: 0.18549, valid loss: 0.13172, Acc: 94.8984, AUC: 0.987171.
+Mon Feb  5 20:16:50 2024 Fold 1, Epoch 13, lr: 0.0002055, train loss: 0.18753, valid loss: 0.15778, Acc: 94.7178, AUC: 0.983322.
+Mon Feb  5 20:43:15 2024 Fold 1, Epoch 14, lr: 0.0001901, train loss: 0.17262, valid loss: 0.17002, Acc: 94.2664, AUC: 0.974834.
+Mon Feb  5 21:09:33 2024 Fold 1, Epoch 15, lr: 0.0001743, train loss: 0.16463, valid loss: 0.15578, Acc: 94.6727, AUC: 0.982705.
+Mon Feb  5 21:36:06 2024 Fold 1, Epoch 16, lr: 0.0001581, train loss: 0.15123, valid loss: 0.17955, Acc: 94.3115, AUC: 0.985402.
+Mon Feb  5 22:01:26 2024 Fold 1, Epoch 17, lr: 0.0001419, train loss: 0.16099, valid loss: 0.13435, Acc: 95.1242, AUC: 0.986152.
+Mon Feb  5 22:27:18 2024 Fold 1, Epoch 18, lr: 0.0001257, train loss: 0.14935, valid loss: 0.11586, Acc: 95.7111, AUC: 0.988546.
+Mon Feb  5 22:53:01 2024 Fold 1, Epoch 19, lr: 0.0001099, train loss: 0.14136, valid loss: 0.11086, Acc: 95.8465, AUC: 0.989337.
+Mon Feb  5 23:19:12 2024 Fold 1, Epoch 20, lr: 0.0000945, train loss: 0.13113, valid loss: 0.13593, Acc: 95.8916, AUC: 0.987454.
+Mon Feb  5 23:45:06 2024 Fold 1, Epoch 21, lr: 0.0000797, train loss: 0.12582, valid loss: 0.14926, Acc: 95.3499, AUC: 0.984034.
+Tue Feb  6 00:11:21 2024 Fold 1, Epoch 22, lr: 0.0000658, train loss: 0.12595, valid loss: 0.11225, Acc: 96.4786, AUC: 0.990488.
+Tue Feb  6 00:37:27 2024 Fold 1, Epoch 23, lr: 0.0000529, train loss: 0.11452, valid loss: 0.13167, Acc: 95.1242, AUC: 0.988953.
+Tue Feb  6 01:03:05 2024 Fold 1, Epoch 24, lr: 0.0000411, train loss: 0.11194, valid loss: 0.14083, Acc: 94.6275, AUC: 0.986045.
+Tue Feb  6 01:29:59 2024 Fold 1, Epoch 25, lr: 0.0000306, train loss: 0.11408, valid loss: 0.14702, Acc: 95.3950, AUC: 0.987135.
+Tue Feb  6 01:56:53 2024 Fold 1, Epoch 26, lr: 0.0000215, train loss: 0.09875, valid loss: 0.13785, Acc: 95.9368, AUC: 0.988529.
+Tue Feb  6 02:23:16 2024 Fold 1, Epoch 27, lr: 0.0000139, train loss: 0.11061, valid loss: 0.13757, Acc: 95.5756, AUC: 0.988456.
+Tue Feb  6 02:50:05 2024 Fold 1, Epoch 28, lr: 0.0000079, train loss: 0.09788, valid loss: 0.14418, Acc: 95.3499, AUC: 0.986965.
+Tue Feb  6 03:16:09 2024 Fold 1, Epoch 29, lr: 0.0000035, train loss: 0.10432, valid loss: 0.14395, Acc: 95.3047, AUC: 0.986703.
+Tue Feb  6 03:41:42 2024 Fold 1, Epoch 30, lr: 0.0000009, train loss: 0.10533, valid loss: 0.14885, Acc: 95.3950, AUC: 0.986469.
+Tue Feb  6 04:08:09 2024 Fold 2, Epoch 1, lr: 0.0000300, train loss: 0.51072, valid loss: 0.38901, Acc: 84.7059, AUC: 0.897230.
+Tue Feb  6 04:34:31 2024 Fold 2, Epoch 2, lr: 0.0003000, train loss: 0.38389, valid loss: 0.40048, Acc: 85.7014, AUC: 0.904314.
+Tue Feb  6 05:01:04 2024 Fold 2, Epoch 3, lr: 0.0002991, train loss: 0.31338, valid loss: 0.45414, Acc: 79.8190, AUC: 0.936797.
+Tue Feb  6 05:27:58 2024 Fold 2, Epoch 4, lr: 0.0002965, train loss: 0.28501, valid loss: 0.33580, Acc: 83.5294, AUC: 0.953763.
+Tue Feb  6 05:54:30 2024 Fold 2, Epoch 5, lr: 0.0002921, train loss: 0.24742, valid loss: 0.40075, Acc: 86.8778, AUC: 0.929192.
+Tue Feb  6 06:20:58 2024 Fold 2, Epoch 6, lr: 0.0002861, train loss: 0.23767, valid loss: 0.20708, Acc: 91.9457, AUC: 0.968174.
+Tue Feb  6 06:48:01 2024 Fold 2, Epoch 7, lr: 0.0002785, train loss: 0.22557, valid loss: 0.30873, Acc: 88.6878, AUC: 0.947582.
+Tue Feb  6 07:14:56 2024 Fold 2, Epoch 8, lr: 0.0002694, train loss: 0.20985, valid loss: 0.20237, Acc: 91.9005, AUC: 0.970975.
+Tue Feb  6 07:41:24 2024 Fold 2, Epoch 9, lr: 0.0002589, train loss: 0.20479, valid loss: 0.20307, Acc: 92.5339, AUC: 0.971509.
+Tue Feb  6 08:08:07 2024 Fold 2, Epoch 10, lr: 0.0002471, train loss: 0.19415, valid loss: 0.18427, Acc: 93.3032, AUC: 0.976043.
+Tue Feb  6 08:34:07 2024 Fold 2, Epoch 11, lr: 0.0002342, train loss: 0.17991, valid loss: 0.27406, Acc: 90.2262, AUC: 0.953135.
+Tue Feb  6 09:00:27 2024 Fold 2, Epoch 12, lr: 0.0002203, train loss: 0.18440, valid loss: 0.21108, Acc: 92.4887, AUC: 0.969571.
+Tue Feb  6 09:26:57 2024 Fold 2, Epoch 13, lr: 0.0002055, train loss: 0.16973, valid loss: 0.17092, Acc: 93.8914, AUC: 0.981500.
+Tue Feb  6 09:53:18 2024 Fold 2, Epoch 14, lr: 0.0001901, train loss: 0.16053, valid loss: 0.19876, Acc: 93.5747, AUC: 0.971679.
+Tue Feb  6 10:20:14 2024 Fold 2, Epoch 15, lr: 0.0001743, train loss: 0.16086, valid loss: 0.16444, Acc: 93.6199, AUC: 0.983183.
+Tue Feb  6 10:46:56 2024 Fold 2, Epoch 16, lr: 0.0001581, train loss: 0.14718, valid loss: 0.17524, Acc: 94.7059, AUC: 0.983728.
+Tue Feb  6 11:14:51 2024 Fold 2, Epoch 17, lr: 0.0001419, train loss: 0.14018, valid loss: 0.24450, Acc: 92.8054, AUC: 0.964509.
+Tue Feb  6 11:42:47 2024 Fold 2, Epoch 18, lr: 0.0001257, train loss: 0.12927, valid loss: 0.21093, Acc: 93.3937, AUC: 0.974529.
+Tue Feb  6 12:10:55 2024 Fold 2, Epoch 19, lr: 0.0001099, train loss: 0.13255, valid loss: 0.17386, Acc: 94.8869, AUC: 0.979242.
+Tue Feb  6 12:37:11 2024 Fold 2, Epoch 20, lr: 0.0000945, train loss: 0.12562, valid loss: 0.19276, Acc: 94.8416, AUC: 0.981515.
+Tue Feb  6 13:03:18 2024 Fold 2, Epoch 21, lr: 0.0000797, train loss: 0.11731, valid loss: 0.22679, Acc: 93.9819, AUC: 0.973495.
+Tue Feb  6 13:29:57 2024 Fold 2, Epoch 22, lr: 0.0000658, train loss: 0.11279, valid loss: 0.19358, Acc: 94.4796, AUC: 0.981031.
+Tue Feb  6 13:56:43 2024 Fold 2, Epoch 23, lr: 0.0000529, train loss: 0.10869, valid loss: 0.16775, Acc: 94.7059, AUC: 0.982104.
+Tue Feb  6 14:24:02 2024 Fold 2, Epoch 24, lr: 0.0000411, train loss: 0.10624, valid loss: 0.17178, Acc: 94.6606, AUC: 0.982000.
+Tue Feb  6 14:51:28 2024 Fold 2, Epoch 25, lr: 0.0000306, train loss: 0.10633, valid loss: 0.17244, Acc: 94.2986, AUC: 0.980561.
+Tue Feb  6 15:18:32 2024 Fold 2, Epoch 26, lr: 0.0000215, train loss: 0.10304, valid loss: 0.16868, Acc: 94.7511, AUC: 0.983941.
+Tue Feb  6 15:46:01 2024 Fold 2, Epoch 27, lr: 0.0000139, train loss: 0.10091, valid loss: 0.18370, Acc: 94.3891, AUC: 0.980846.
+Tue Feb  6 16:15:21 2024 Fold 2, Epoch 28, lr: 0.0000079, train loss: 0.10152, valid loss: 0.18309, Acc: 94.4344, AUC: 0.980970.
+Tue Feb  6 16:42:03 2024 Fold 2, Epoch 29, lr: 0.0000035, train loss: 0.09711, valid loss: 0.17133, Acc: 94.4796, AUC: 0.982027.
+Tue Feb  6 17:08:41 2024 Fold 2, Epoch 30, lr: 0.0000009, train loss: 0.09824, valid loss: 0.18004, Acc: 94.2986, AUC: 0.980784.
+Tue Feb  6 17:35:20 2024 Fold 3, Epoch 1, lr: 0.0000300, train loss: 0.50449, valid loss: 0.40266, Acc: 83.9495, AUC: 0.875893.
+Tue Feb  6 18:01:58 2024 Fold 3, Epoch 2, lr: 0.0003000, train loss: 0.36801, valid loss: 0.46963, Acc: 79.1704, AUC: 0.903041.
+Tue Feb  6 18:28:46 2024 Fold 3, Epoch 3, lr: 0.0002991, train loss: 0.32379, valid loss: 0.35757, Acc: 83.4536, AUC: 0.917305.
+Tue Feb  6 18:55:53 2024 Fold 3, Epoch 4, lr: 0.0002965, train loss: 0.29823, valid loss: 0.28322, Acc: 87.4662, AUC: 0.946458.
+Tue Feb  6 19:22:17 2024 Fold 3, Epoch 5, lr: 0.0002921, train loss: 0.27218, valid loss: 0.28728, Acc: 88.6835, AUC: 0.953078.
+Tue Feb  6 19:48:53 2024 Fold 3, Epoch 6, lr: 0.0002861, train loss: 0.25342, valid loss: 0.24315, Acc: 89.4500, AUC: 0.964047.
+Tue Feb  6 20:15:07 2024 Fold 3, Epoch 7, lr: 0.0002785, train loss: 0.25523, valid loss: 0.22924, Acc: 89.4049, AUC: 0.974904.
+Tue Feb  6 20:41:18 2024 Fold 3, Epoch 8, lr: 0.0002694, train loss: 0.21880, valid loss: 0.29895, Acc: 89.3598, AUC: 0.965171.
+Tue Feb  6 21:07:26 2024 Fold 3, Epoch 9, lr: 0.0002589, train loss: 0.20909, valid loss: 0.23384, Acc: 89.8557, AUC: 0.968101.
+Tue Feb  6 21:33:52 2024 Fold 3, Epoch 10, lr: 0.0002471, train loss: 0.20595, valid loss: 0.20824, Acc: 91.2985, AUC: 0.973335.
+Tue Feb  6 22:00:11 2024 Fold 3, Epoch 11, lr: 0.0002342, train loss: 0.18761, valid loss: 0.17824, Acc: 92.6060, AUC: 0.977989.
+Tue Feb  6 22:26:26 2024 Fold 3, Epoch 12, lr: 0.0002203, train loss: 0.16803, valid loss: 0.22364, Acc: 91.6592, AUC: 0.976688.
+Tue Feb  6 22:52:50 2024 Fold 3, Epoch 13, lr: 0.0002055, train loss: 0.18134, valid loss: 0.17075, Acc: 93.1921, AUC: 0.981013.
+Tue Feb  6 23:19:22 2024 Fold 3, Epoch 14, lr: 0.0001901, train loss: 0.15860, valid loss: 0.22414, Acc: 92.0649, AUC: 0.968575.
+Tue Feb  6 23:46:28 2024 Fold 3, Epoch 15, lr: 0.0001743, train loss: 0.16083, valid loss: 0.29268, Acc: 88.2777, AUC: 0.970899.
+Wed Feb  7 00:13:08 2024 Fold 3, Epoch 16, lr: 0.0001581, train loss: 0.14956, valid loss: 0.18769, Acc: 93.1921, AUC: 0.980001.
+Wed Feb  7 00:39:33 2024 Fold 3, Epoch 17, lr: 0.0001419, train loss: 0.14650, valid loss: 0.19616, Acc: 91.7042, AUC: 0.974232.
+Wed Feb  7 01:05:50 2024 Fold 3, Epoch 18, lr: 0.0001257, train loss: 0.13919, valid loss: 0.23898, Acc: 90.2164, AUC: 0.970688.
+Wed Feb  7 01:32:02 2024 Fold 3, Epoch 19, lr: 0.0001099, train loss: 0.13116, valid loss: 0.27619, Acc: 91.9297, AUC: 0.962313.
+Wed Feb  7 01:58:27 2024 Fold 3, Epoch 20, lr: 0.0000945, train loss: 0.13193, valid loss: 0.20065, Acc: 93.0568, AUC: 0.980265.
+Wed Feb  7 02:24:05 2024 Fold 3, Epoch 21, lr: 0.0000797, train loss: 0.12138, valid loss: 0.17924, Acc: 93.3273, AUC: 0.980906.
+Wed Feb  7 02:49:41 2024 Fold 3, Epoch 22, lr: 0.0000658, train loss: 0.11438, valid loss: 0.19455, Acc: 93.3724, AUC: 0.980129.
+Wed Feb  7 03:16:09 2024 Fold 3, Epoch 23, lr: 0.0000529, train loss: 0.12127, valid loss: 0.20724, Acc: 92.8765, AUC: 0.975351.
+Wed Feb  7 03:42:26 2024 Fold 3, Epoch 24, lr: 0.0000411, train loss: 0.11662, valid loss: 0.21222, Acc: 92.7863, AUC: 0.975721.
+Wed Feb  7 04:08:32 2024 Fold 3, Epoch 25, lr: 0.0000306, train loss: 0.10792, valid loss: 0.21499, Acc: 92.8765, AUC: 0.975201.
+Wed Feb  7 04:34:33 2024 Fold 3, Epoch 26, lr: 0.0000215, train loss: 0.10021, valid loss: 0.20558, Acc: 93.1019, AUC: 0.976603.
+Wed Feb  7 05:00:42 2024 Fold 3, Epoch 27, lr: 0.0000139, train loss: 0.10415, valid loss: 0.21279, Acc: 93.1470, AUC: 0.975759.
+Wed Feb  7 05:27:20 2024 Fold 3, Epoch 28, lr: 0.0000079, train loss: 0.09899, valid loss: 0.20947, Acc: 93.2372, AUC: 0.976792.
+Wed Feb  7 05:53:54 2024 Fold 3, Epoch 29, lr: 0.0000035, train loss: 0.09978, valid loss: 0.21376, Acc: 93.4175, AUC: 0.976055.
+Wed Feb  7 06:20:06 2024 Fold 3, Epoch 30, lr: 0.0000009, train loss: 0.09862, valid loss: 0.20881, Acc: 93.1470, AUC: 0.978324.
+Wed Feb  7 06:46:00 2024 Fold 4, Epoch 1, lr: 0.0000300, train loss: 0.53146, valid loss: 0.37531, Acc: 83.1227, AUC: 0.922723.
+Wed Feb  7 07:12:18 2024 Fold 4, Epoch 2, lr: 0.0003000, train loss: 0.38667, valid loss: 0.26814, Acc: 89.5758, AUC: 0.923495.
+Wed Feb  7 07:38:28 2024 Fold 4, Epoch 3, lr: 0.0002991, train loss: 0.32498, valid loss: 0.29034, Acc: 86.6877, AUC: 0.931481.
+Wed Feb  7 08:04:49 2024 Fold 4, Epoch 4, lr: 0.0002965, train loss: 0.28576, valid loss: 0.32865, Acc: 85.5596, AUC: 0.940805.
+Wed Feb  7 08:30:57 2024 Fold 4, Epoch 5, lr: 0.0002921, train loss: 0.26997, valid loss: 0.23802, Acc: 90.0271, AUC: 0.953979.
+Wed Feb  7 08:57:32 2024 Fold 4, Epoch 6, lr: 0.0002861, train loss: 0.25332, valid loss: 0.56680, Acc: 79.3773, AUC: 0.948420.
+Wed Feb  7 09:23:35 2024 Fold 4, Epoch 7, lr: 0.0002785, train loss: 0.23994, valid loss: 0.19202, Acc: 92.2383, AUC: 0.965255.
+Wed Feb  7 09:49:27 2024 Fold 4, Epoch 8, lr: 0.0002694, train loss: 0.22455, valid loss: 0.17803, Acc: 93.1408, AUC: 0.971725.
+Wed Feb  7 10:15:45 2024 Fold 4, Epoch 9, lr: 0.0002589, train loss: 0.22000, valid loss: 0.24301, Acc: 89.1697, AUC: 0.961764.
+Wed Feb  7 10:41:35 2024 Fold 4, Epoch 10, lr: 0.0002471, train loss: 0.19999, valid loss: 0.23982, Acc: 90.5235, AUC: 0.973173.
+Wed Feb  7 11:07:59 2024 Fold 4, Epoch 11, lr: 0.0002342, train loss: 0.18815, valid loss: 0.21978, Acc: 91.9675, AUC: 0.964744.
+Wed Feb  7 11:34:50 2024 Fold 4, Epoch 12, lr: 0.0002203, train loss: 0.18247, valid loss: 0.23023, Acc: 90.4783, AUC: 0.971754.
+Wed Feb  7 12:01:23 2024 Fold 4, Epoch 13, lr: 0.0002055, train loss: 0.17536, valid loss: 0.21429, Acc: 90.7491, AUC: 0.969160.
+Wed Feb  7 12:27:55 2024 Fold 4, Epoch 14, lr: 0.0001901, train loss: 0.16075, valid loss: 0.17221, Acc: 92.9152, AUC: 0.975492.
+Wed Feb  7 12:54:25 2024 Fold 4, Epoch 15, lr: 0.0001743, train loss: 0.16856, valid loss: 0.17570, Acc: 93.3664, AUC: 0.973031.
+Wed Feb  7 13:20:51 2024 Fold 4, Epoch 16, lr: 0.0001581, train loss: 0.15676, valid loss: 0.18661, Acc: 93.9531, AUC: 0.966432.
+Wed Feb  7 13:47:38 2024 Fold 4, Epoch 17, lr: 0.0001419, train loss: 0.15052, valid loss: 0.19444, Acc: 92.2834, AUC: 0.974198.
+Wed Feb  7 14:13:31 2024 Fold 4, Epoch 18, lr: 0.0001257, train loss: 0.14601, valid loss: 0.22919, Acc: 89.1245, AUC: 0.976455.
+Wed Feb  7 14:40:18 2024 Fold 4, Epoch 19, lr: 0.0001099, train loss: 0.12994, valid loss: 0.19255, Acc: 93.5921, AUC: 0.977338.
+Wed Feb  7 15:06:52 2024 Fold 4, Epoch 20, lr: 0.0000945, train loss: 0.13155, valid loss: 0.19492, Acc: 93.3664, AUC: 0.982377.
+Wed Feb  7 15:33:15 2024 Fold 4, Epoch 21, lr: 0.0000797, train loss: 0.12454, valid loss: 0.18179, Acc: 93.2762, AUC: 0.979356.
+Wed Feb  7 15:59:34 2024 Fold 4, Epoch 22, lr: 0.0000658, train loss: 0.12791, valid loss: 0.18402, Acc: 93.2762, AUC: 0.982979.
+Wed Feb  7 16:26:07 2024 Fold 4, Epoch 23, lr: 0.0000529, train loss: 0.11008, valid loss: 0.19643, Acc: 93.6372, AUC: 0.980900.
+Wed Feb  7 16:52:11 2024 Fold 4, Epoch 24, lr: 0.0000411, train loss: 0.11012, valid loss: 0.17659, Acc: 93.7726, AUC: 0.981094.
+Wed Feb  7 17:18:25 2024 Fold 4, Epoch 25, lr: 0.0000306, train loss: 0.09760, valid loss: 0.18293, Acc: 94.3141, AUC: 0.983309.
+Wed Feb  7 17:44:48 2024 Fold 4, Epoch 26, lr: 0.0000215, train loss: 0.11347, valid loss: 0.16237, Acc: 94.6300, AUC: 0.983421.
+Wed Feb  7 18:11:04 2024 Fold 4, Epoch 27, lr: 0.0000139, train loss: 0.10185, valid loss: 0.17501, Acc: 94.5397, AUC: 0.983881.
+Wed Feb  7 18:37:37 2024 Fold 4, Epoch 28, lr: 0.0000079, train loss: 0.10738, valid loss: 0.16992, Acc: 94.4495, AUC: 0.983953.
+Wed Feb  7 19:03:52 2024 Fold 4, Epoch 29, lr: 0.0000035, train loss: 0.10613, valid loss: 0.18059, Acc: 94.3141, AUC: 0.983599.
+Wed Feb  7 19:30:12 2024 Fold 4, Epoch 30, lr: 0.0000009, train loss: 0.10922, valid loss: 0.17371, Acc: 94.4043, AUC: 0.983578.
+Thu Feb  8 09:35:06 2024 Eval best:
+Accuracy : 94.49500
+AUC_all_raw : 0.98036
+AUC_all_rank : 0.97593
+
+Thu Feb  8 09:52:00 2024 Eval best:
+Accuracy : 95.09866
+AUC_all_raw : 0.98511
+AUC_all_rank : 0.97982
+
+Thu Feb  8 09:56:29 2024 Eval best:
+Accuracy : 97.86667
+AUC_all_raw : 0.99806
+AUC_all_rank : 0.97984
+
+Thu Feb  8 16:14:48 2024 Eval best:
+Accuracy : 98.13333
+AUC_all_raw : 0.99781
+AUC_all_rank : 0.98088
+

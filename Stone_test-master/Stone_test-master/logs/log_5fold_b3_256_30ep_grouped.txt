@@ -1,0 +1,56 @@
+Mon Jan 29 16:44:39 2024 Grouped Eval best:
+Accuracy : 97.86667
+AUC_all_raw : 0.99584
+
+Mon Jan 29 17:03:36 2024 Grouped Eval best:
+Accuracy : 97.86667
+AUC_all_raw : 0.99584
+
+Mon Jan 29 17:12:54 2024 Grouped Eval best:
+Accuracy : 97.86667
+AUC_all_raw : 0.99587
+
+Mon Jan 29 17:23:05 2024 Grouped Eval best:
+Accuracy : 97.86667
+AUC_all_raw : 0.99587
+
+Mon Jan 29 17:30:10 2024 Grouped Eval best:
+Accuracy : 97.86667
+AUC_all_raw : 0.99587
+
+Mon Jan 29 17:46:43 2024 Grouped Eval best:
+Accuracy : 97.86667
+AUC_all_raw : 0.99587
+
+Mon Jan 29 17:52:36 2024 Grouped Eval best:
+Accuracy : 97.86667
+AUC_all_raw : 0.99587
+
+Tue Jan 30 15:43:51 2024 Grouped Eval best:
+Accuracy : 97.60000
+AUC_all_raw : 0.99626
+
+Tue Jan 30 15:47:32 2024 Grouped Eval best:
+Accuracy : 97.60000
+AUC_all_raw : 0.99640
+
+Tue Jan 30 15:52:15 2024 Grouped Eval best:
+Accuracy : 97.60000
+AUC_all_raw : 0.99644
+
+Tue Jan 30 15:58:00 2024 Grouped Eval best:
+Accuracy : 97.86667
+AUC_all_raw : 0.99587
+
+Wed Jan 31 14:23:51 2024 Grouped Eval best:
+Accuracy : 97.86667
+AUC_all_raw : 0.99587
+
+Thu Feb  8 09:56:29 2024 Grouped Eval best:
+Accuracy : 97.86667
+AUC_all_raw : 0.99806
+
+Thu Feb  8 16:14:48 2024 Grouped Eval best:
+Accuracy : 98.13333
+AUC_all_raw : 0.99781
+
